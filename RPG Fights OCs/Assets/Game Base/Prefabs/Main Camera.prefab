@@ -96,3 +96,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d39a05aecb2be547b49bbc30ea1146b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  canFollowPlayer: 0

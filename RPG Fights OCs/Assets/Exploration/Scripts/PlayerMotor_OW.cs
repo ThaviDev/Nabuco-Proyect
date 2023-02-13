@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMotor_OW : MonoBehaviour
 {
+    [SerializeField]
     private float movementSpeedIG = 4;
     private Vector3 target;
     private float axisX;// El valor X del jugador
