@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -8,6 +9,7 @@ public static class Scene_Loader
     // Este carga una escena sencilla, como una escena de combate
     public static void LoadScene (string sceneName)
     {
+        Scene_Manager scene_Manager = Object.FindObjectOfType<Scene_Manager>();
         SceneManager.LoadSceneAsync(sceneName);
     }
     /*

@@ -37,7 +37,7 @@ public class MenuMotor : MonoBehaviour
     // llamar a Game Manager para cargar la siguiente escena MenuMotor/GameManager/SceneManager/SceneLoader
     public void CallGM_ToChangeScene()
     {
-        Gmanager.Output_SceneManager_ChangeScene("Lobby");
+        Gmanager.Output_SceneManager_ChangeScene("L1 R1");
     }
 
 }

@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Heroe Caminando true-Sheet_0
+  m_Name: mini_assets3
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 5613728942694591938, guid: b3ec9f200bbd3ce4e9dc93f402de14b5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f00b50bde313cb1439e9d3d878505a5f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
