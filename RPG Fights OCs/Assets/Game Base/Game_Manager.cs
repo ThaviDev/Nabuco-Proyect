@@ -14,7 +14,7 @@ public class Game_Manager : MonoBehaviour
     Scene_Manager sceneMan;
     Camera myCamera;
     PauseManager pauseManager;
-    MyDialogueManager myDialogueManager;
+    MyDialogueManager myDialogueMan;
 
     MenuMotor menuMotor;
 
@@ -26,6 +26,7 @@ public class Game_Manager : MonoBehaviour
         sceneMan = FindObjectOfType<Scene_Manager>();
         myCamera = Camera.main;
         pauseManager = FindObjectOfType<PauseManager>();
+        myDialogueMan = FindObjectOfType<MyDialogueManager>();
 
         // Destruye la escena con todos los objetos y códigos indestructibles para no molestar con una escena demás que no tiene nada
         SceneManager.UnloadSceneAsync("Game Base");
@@ -40,6 +41,7 @@ public class Game_Manager : MonoBehaviour
     // Esta función sirve para estar checando que escena está cargada, y una vez que sabe eso, que códigos necesita encontrar, además de que otras funciones puede acceder
     void CheckScene()
     {
+        // Obtener la escena activa en ese momento
         myScene = SceneManager.GetActiveScene();
         switch (myScene.name)
         {
@@ -47,23 +49,29 @@ public class Game_Manager : MonoBehaviour
                 menuMotor = FindObjectOfType<MenuMotor>();
                 menuMotor.cam = myCamera;
                 break;
+            case "L1 R1":
+
+                break;
         }
     }
     // Envía codigo a Scene Manager para cambiar la escena
     public void Output_SceneManager_ChangeScene(string sceneName)
     {
         // Pasar el nombre de la escena que cambiará y que se pueda cambiar
+        /*
         sceneMan.sceneID = sceneName;
         sceneMan.changeScene = true;
+        */
+        sceneMan.ChangeSceneInput(sceneName);
     }
 
     public void Input_SceneLoaded()
     {
-        print("MUEVO LA CAMARA");
-        myCamera.GetComponent<CameraManager_OW>().canFollowPlayer = false;
-        myCamera.gameObject.transform.position = new Vector3(0f, 0f, -10f);
-        // Checar en que escena estamos
+        print("Gman Sabe que estoy en nueva escena");
         CheckScene();
+        //myCamera.GetComponent<CameraManager_OW>().canFollowPlayer = false;
+        //myCamera.gameObject.transform.position = new Vector3(0f, 0f, -10f);
+        // Checar en que escena estamos
     }
 
     public void Input_BattleManager(bool isVictory, 
