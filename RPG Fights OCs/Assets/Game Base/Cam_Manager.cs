@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class CameraManager_OW : MonoBehaviour
+public class Cam_Manager : MonoBehaviour
 {
     private float speedFollow = 5;
     private Transform target;
@@ -12,7 +12,7 @@ public class CameraManager_OW : MonoBehaviour
         DontDestroyOnLoad(this.gameObject);
         try
         {
-            target = FindObjectOfType<PlayerMotor_OW>().transform;
+            target = FindObjectOfType<Player_Exploration>().transform;
         }
         catch {
             //target = FindObjectOfType<PlayerMotor_OW>().transform;

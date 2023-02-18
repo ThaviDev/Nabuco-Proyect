@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ScOw_Motor : MonoBehaviour
+public class Exploration_Manager : MonoBehaviour
 {
     public int OwScene; // la escena actual en la que 
     public GameObject interactableObjs; // Objetos interactuables en la escena: Personajes y Localizaciones
     //public GameObject exit;
     public LocationCol exitCol = null;
-    public PlayerMotor_OW player;
+    public Player_Exploration player;
     public Camera cam;
     Game_Manager Gman;
 
@@ -24,7 +24,7 @@ public class ScOw_Motor : MonoBehaviour
         print(interactableObjs);
         locations = interactableObjs.gameObject.transform.Find("Locations").gameObject;
 
-        player = FindObjectOfType<PlayerMotor_OW>();
+        player = FindObjectOfType<Player_Exploration>();
         cam = FindObjectOfType<Camera>();
 
         try

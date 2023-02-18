@@ -8,7 +8,7 @@ public class Acting_Manager : MonoBehaviour
     //public int actNum;
     void Start()
     {
-        player = FindObjectOfType<PlayerMotor_OW>().gameObject;
+        player = FindObjectOfType<Player_Exploration>().gameObject;
     }
 
     void Update()

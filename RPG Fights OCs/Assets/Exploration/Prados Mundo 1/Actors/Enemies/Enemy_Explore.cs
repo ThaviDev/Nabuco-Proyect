@@ -19,7 +19,7 @@ public class Enemy_Explore : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         // Encontrar Overworld Motor
-        ScOw_Motor owMotor = FindObjectOfType<ScOw_Motor>();
+        Exploration_Manager owMotor = FindObjectOfType<Exploration_Manager>();
         // Llamarlo para decirle que el jugador chocó contra un enemigo
         owMotor.EnemyEncountered(myEnemID);
         myCollider.enabled = false;

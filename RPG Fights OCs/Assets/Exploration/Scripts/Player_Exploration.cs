@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMotor_OW : MonoBehaviour
+public class Player_Exploration : MonoBehaviour
 {
     [SerializeField]
     private float movementSpeedIG = 4;
