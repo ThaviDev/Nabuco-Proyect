@@ -1,0 +1,2100 @@
+fileFormatVersion: 2
+guid: 26ee27cd27aa79540b596ee2f4497536
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5690905079659532919
+    second: AbejaAzulPiquete-Sheet_0
+  - first:
+      213: 7092185197556068539
+    second: AbejaAzulPiquete-Sheet_1
+  - first:
+      213: -4243793364864191678
+    second: AbejaAzulPiquete-Sheet_2
+  - first:
+      213: -6943244214491568596
+    second: AbejaAzulPiquete-Sheet_3
+  - first:
+      213: 3246943016585979648
+    second: AbejaAzulPiquete-Sheet_4
+  - first:
+      213: 2265587307211234625
+    second: AbejaAzulPiquete-Sheet_5
+  - first:
+      213: 5157699338992624653
+    second: AbejaAzulPiquete-Sheet_6
+  - first:
+      213: -8599346757163266744
+    second: AbejaAzulPiquete-Sheet_7
+  - first:
+      213: 2910937787794090845
+    second: AbejaAzulPiquete-Sheet_8
+  - first:
+      213: 4002720665646597444
+    second: AbejaAzulPiquete-Sheet_9
+  - first:
+      213: 39805676523051118
+    second: AbejaAzulPiquete-Sheet_10
+  - first:
+      213: 8250227987401146748
+    second: AbejaAzulPiquete-Sheet_11
+  - first:
+      213: -5459761057506782449
+    second: AbejaAzulPiquete-Sheet_12
+  - first:
+      213: -3145390148577195515
+    second: AbejaAzulPiquete-Sheet_13
+  - first:
+      213: 2940446030065688040
+    second: AbejaAzulPiquete-Sheet_14
+  - first:
+      213: -1861522108100345526
+    second: AbejaAzulPiquete-Sheet_15
+  - first:
+      213: 5841137743526330731
+    second: AbejaAzulPiquete-Sheet_16
+  - first:
+      213: -6253684942650540392
+    second: AbejaAzulPiquete-Sheet_17
+  - first:
+      213: 4785245725839849002
+    second: AbejaAzulPiquete-Sheet_18
+  - first:
+      213: -2338778209737816381
+    second: AbejaAzulPiquete-Sheet_19
+  - first:
+      213: -8773399608939640153
+    second: AbejaAzulPiquete-Sheet_20
+  - first:
+      213: 7191588108758804221
+    second: AbejaAzulPiquete-Sheet_21
+  - first:
+      213: -7859508954460627994
+    second: AbejaAzulPiquete-Sheet_22
+  - first:
+      213: 1131103211547762941
+    second: AbejaAzulPiquete-Sheet_23
+  - first:
+      213: 7868684651416488512
+    second: AbejaAzulPiquete-Sheet_24
+  - first:
+      213: 1928198852131512507
+    second: AbejaAzulPiquete-Sheet_25
+  - first:
+      213: 8604468486812871425
+    second: AbejaAzulPiquete-Sheet_26
+  - first:
+      213: 6170278358075776805
+    second: AbejaAzulPiquete-Sheet_27
+  - first:
+      213: -259488703549987880
+    second: AbejaAzulPiquete-Sheet_28
+  - first:
+      213: -4809692832867659814
+    second: AbejaAzulPiquete-Sheet_29
+  - first:
+      213: 7556222380088752978
+    second: AbejaAzulPiquete-Sheet_30
+  - first:
+      213: -8129573221970881067
+    second: AbejaAzulPiquete-Sheet_31
+  - first:
+      213: -6471713286298779642
+    second: AbejaAzulPiquete-Sheet_32
+  - first:
+      213: -4126585723441077879
+    second: AbejaAzulPiquete-Sheet_33
+  - first:
+      213: -5382646614253334458
+    second: AbejaAzulPiquete-Sheet_34
+  - first:
+      213: 6398737090148017093
+    second: AbejaAzulPiquete-Sheet_35
+  - first:
+      213: -6498186395635072293
+    second: AbejaAzulPiquete-Sheet_36
+  - first:
+      213: 1910882752750282048
+    second: AbejaAzulPiquete-Sheet_37
+  - first:
+      213: 5608777859569843637
+    second: AbejaAzulPiquete-Sheet_38
+  - first:
+      213: 6246131048488229454
+    second: AbejaAzulPiquete-Sheet_39
+  - first:
+      213: 4091522703952084384
+    second: AbejaAzulPiquete-Sheet_40
+  - first:
+      213: 5283690021692971012
+    second: AbejaAzulPiquete-Sheet_41
+  - first:
+      213: -2500629955662920288
+    second: AbejaAzulPiquete-Sheet_42
+  - first:
+      213: -2588476145628550707
+    second: AbejaAzulPiquete-Sheet_43
+  - first:
+      213: -7084999101270484692
+    second: AbejaAzulPiquete-Sheet_44
+  - first:
+      213: 1924769646593819327
+    second: AbejaAzulPiquete-Sheet_45
+  - first:
+      213: 7085075629400072221
+    second: AbejaAzulPiquete-Sheet_46
+  - first:
+      213: -5530622839221721517
+    second: AbejaAzulPiquete-Sheet_47
+  - first:
+      213: -6434128128878584100
+    second: AbejaAzulPiquete-Sheet_48
+  - first:
+      213: 4266437455437348167
+    second: AbejaAzulPiquete-Sheet_49
+  - first:
+      213: 2075813286898521794
+    second: AbejaAzulPiquete-Sheet_50
+  - first:
+      213: 4604029598451188395
+    second: AbejaAzulPiquete-Sheet_51
+  - first:
+      213: 8083699263309954202
+    second: AbejaAzulPiquete-Sheet_52
+  - first:
+      213: 8196562280996942573
+    second: AbejaAzulPiquete-Sheet_53
+  - first:
+      213: -728851072522402863
+    second: AbejaAzulPiquete-Sheet_54
+  - first:
+      213: 6934727387346512796
+    second: AbejaAzulPiquete-Sheet_55
+  - first:
+      213: 5454784413851523218
+    second: AbejaAzulPiquete-Sheet_56
+  - first:
+      213: -6038927502044704605
+    second: AbejaAzulPiquete-Sheet_57
+  - first:
+      213: 6790064310318180370
+    second: AbejaAzulPiquete-Sheet_58
+  - first:
+      213: 2798312153752648522
+    second: AbejaAzulPiquete-Sheet_59
+  - first:
+      213: -1711607499192859189
+    second: AbejaAzulPiquete-Sheet_60
+  - first:
+      213: 8727120705228277637
+    second: AbejaAzulPiquete-Sheet_61
+  - first:
+      213: 1136939525260041047
+    second: AbejaAzulPiquete-Sheet_62
+  - first:
+      213: 7679933921615650135
+    second: AbejaAzulPiquete-Sheet_63
+  - first:
+      213: -8389607982993778183
+    second: AbejaAzulPiquete-Sheet_64
+  - first:
+      213: 3569924142110449081
+    second: AbejaAzulPiquete-Sheet_65
+  - first:
+      213: 6747278015199322964
+    second: AbejaAzulPiquete-Sheet_66
+  - first:
+      213: -8889420706952557363
+    second: AbejaAzulPiquete-Sheet_67
+  - first:
+      213: -5083443703187857924
+    second: AbejaAzulPiquete-Sheet_68
+  - first:
+      213: -8550130152110220601
+    second: AbejaAzulPiquete-Sheet_69
+  - first:
+      213: -5806301678856727558
+    second: AbejaAzulPiquete-Sheet_70
+  - first:
+      213: -7456357232907531383
+    second: AbejaAzulPiquete-Sheet_71
+  - first:
+      213: -115200364974888952
+    second: AbejaAzulPiquete-Sheet_72
+  - first:
+      213: -6478259139154038101
+    second: AbejaAzulPiquete-Sheet_73
+  - first:
+      213: 875030343695418048
+    second: AbejaAzulPiquete-Sheet_74
+  - first:
+      213: 2976689760141972195
+    second: AbejaAzulPiquete-Sheet_75
+  - first:
+      213: 4259907782586154985
+    second: AbejaAzulPiquete-Sheet_76
+  - first:
+      213: -1053268852812785216
+    second: AbejaAzulPiquete-Sheet_77
+  - first:
+      213: -294878217444192271
+    second: AbejaAzulPiquete-Sheet_78
+  - first:
+      213: -580992497898487623
+    second: AbejaAzulPiquete-Sheet_79
+  - first:
+      213: -2990538503015617573
+    second: AbejaAzulPiquete-Sheet_80
+  - first:
+      213: -8455512139361659048
+    second: AbejaAzulPiquete-Sheet_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d6d645bf7d501b0800000000000000
+      internalID: -5690905079659532919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0fc957cd08c6260800000000000000
+      internalID: 7092185197556068539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2433c135b640b15c0800000000000000
+      internalID: -4243793364864191678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a17e7c24a4af90800000000000000
+      internalID: -6943244214491568596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007ea8578757f0d20800000000000000
+      internalID: 3246943016585979648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d95fdf6abf07f10800000000000000
+      internalID: 2265587307211234625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d042ceed834d39740800000000000000
+      internalID: 5157699338992624653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d40e68fabf8a880800000000000000
+      internalID: -8599346757163266744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b6ab4ce7ab56820800000000000000
+      internalID: 2910937787794090845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 904
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4450bf2fc358c8730800000000000000
+      internalID: 4002720665646597444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6853394d0b6d8000800000000000000
+      internalID: 39805676523051118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71080994a2be7270800000000000000
+      internalID: 8250227987401146748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f031cc8ce380b34b0800000000000000
+      internalID: -5459761057506782449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a0b0a23545954d0800000000000000
+      internalID: -3145390148577195515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd54fc5109ec820800000000000000
+      internalID: 2940446030065688040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a418425618b8a26e0800000000000000
+      internalID: -1861522108100345526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61830f74d3ef0150800000000000000
+      internalID: 5841137743526330731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89efa189da27639a0800000000000000
+      internalID: -6253684942650540392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f3a362ab986240800000000000000
+      internalID: 4785245725839849002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 791
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c647201c9dfa8fd0800000000000000
+      internalID: -2338778209737816381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa0a940a8f9e3680800000000000000
+      internalID: -8773399608939640153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ed714847adc360800000000000000
+      internalID: 7191588108758804221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5f545f3a6de290800000000000000
+      internalID: -7859508954460627994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ab98c06c72bf00800000000000000
+      internalID: 1131103211547762941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8f39100f233d60800000000000000
+      internalID: 7868684651416488512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06d95d3a652ca10800000000000000
+      internalID: 1928198852131512507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b26851086396770800000000000000
+      internalID: 8604468486812871425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1362a97b31a550800000000000000
+      internalID: 6170278358075776805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d32da1266c166cf0800000000000000
+      internalID: -259488703549987880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 678
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf4e22f9d9804db0800000000000000
+      internalID: -4809692832867659814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bfb0958381dd860800000000000000
+      internalID: 7556222380088752978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5d5e81a34fd2f80800000000000000
+      internalID: -8129573221970881067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6004cf10e0bdf26a0800000000000000
+      internalID: -6471713286298779642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981a81be52c6bb6c0800000000000000
+      internalID: -4126585723441077879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64098fd3c6ffc45b0800000000000000
+      internalID: -5382646614253334458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3a3654b71ecc850800000000000000
+      internalID: 6398737090148017093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd245ebe6edc1d5a0800000000000000
+      internalID: -6498186395635072293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045e9154db1d48a10800000000000000
+      internalID: 1910882752750282048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd7cb72fb166dd40800000000000000
+      internalID: 5608777859569843637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 565
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4addad5817bea650800000000000000
+      internalID: 6246131048488229454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad728fa83208c830800000000000000
+      internalID: 4091522703952084384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408194e9410735940800000000000000
+      internalID: 5283690021692971012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c202ed4afb4dd0800000000000000
+      internalID: -2500629955662920288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ec3ee8a2e31cd0800000000000000
+      internalID: -2588476145628550707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c299fc6fad60dad90800000000000000
+      internalID: -7084999101270484692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2cda3bbc726ba10800000000000000
+      internalID: 1924769646593819327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d102b212fbe335260800000000000000
+      internalID: 7085075629400072221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e68984d74f33b0800000000000000
+      internalID: -5530622839221721517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded7d66e8265b6a0800000000000000
+      internalID: -6434128128878584100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 452
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db3cbd24e653b30800000000000000
+      internalID: 4266437455437348167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65f91bf25cecc10800000000000000
+      internalID: 2075813286898521794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2411fc68cc4ef30800000000000000
+      internalID: 4604029598451188395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3da496a11f2070800000000000000
+      internalID: 8083699263309954202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23032a7f900c170800000000000000
+      internalID: 8196562280996942573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c328afc992e5f0800000000000000
+      internalID: -728851072522402863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b26f821d91d3060800000000000000
+      internalID: 6934727387346512796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29815f1168943bb40800000000000000
+      internalID: 5454784413851523218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d948be6b613ca0800000000000000
+      internalID: -6038927502044704605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a292d3872b3e50800000000000000
+      internalID: 6790064310318180370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 339
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb517e31a95d620800000000000000
+      internalID: 2798312153752648522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc507b74c062f38e0800000000000000
+      internalID: -1711607499192859189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587861b0b06fc1970800000000000000
+      internalID: 8727120705228277637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bd936797837cf00800000000000000
+      internalID: 1136939525260041047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9f50363b949a60800000000000000
+      internalID: 7679933921615650135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9dfd05dff129b80800000000000000
+      internalID: -8389607982993778183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd959dc71bea8130800000000000000
+      internalID: 3569924142110449081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45322c03b9523ad50800000000000000
+      internalID: 6747278015199322964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc471717fe62a480800000000000000
+      internalID: -8889420706952557363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd9acb92eaf379b0800000000000000
+      internalID: -5083443703187857924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 226
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca1d1c5de5d75980800000000000000
+      internalID: -8550130152110220601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39dfcd26fdb6fa0800000000000000
+      internalID: -5806301678856727558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bc1262a92b58890800000000000000
+      internalID: -7456357232907531383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8082dafd0e9b66ef0800000000000000
+      internalID: -115200364974888952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2bbcfd2a99816a0800000000000000
+      internalID: -6478259139154038101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c247a3267bb42c00800000000000000
+      internalID: 875030343695418048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21ecfc0935f4920800000000000000
+      internalID: 2976689760141972195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef38fcee8b3e1b30800000000000000
+      internalID: 4259907782586154985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c95c1f0f890261f0800000000000000
+      internalID: -1053268852812785216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff0d35d2d168ebf0800000000000000
+      internalID: -294878217444192271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 113
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b00891c666efe7f0800000000000000
+      internalID: -580992497898487623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb20a873197f76d0800000000000000
+      internalID: -2990538503015617573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulPiquete-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.03539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857585b228cf7aa80800000000000000
+      internalID: -8455512139361659048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

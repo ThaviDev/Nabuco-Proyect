@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6fff5f6a10b36f4687ef4a90d3d962f, type: 3}
   m_Name: Act_Picachu
   m_EditorClassIdentifier: 
-  animControl: {fileID: 9100000, guid: 2fcc60f9bc5c1494ca50532479d9fd90, type: 2}
+  animControl: {fileID: 22100000, guid: bad30904ac130c34cae7f1fe2b15c930, type: 2}
   actorID: 201
   isEnemy: 1
   actorsData:

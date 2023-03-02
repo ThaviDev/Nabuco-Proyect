@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: d363a983411a1804092dc2e1740d73c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8124224561603660374
+    second: AbejaPolinizarAlas-Sheet_0
+  - first:
+      213: -2367319362636770944
+    second: AbejaPolinizarAlas-Sheet_1
+  - first:
+      213: 7409351300531447502
+    second: AbejaPolinizarAlas-Sheet_2
+  - first:
+      213: -889729872560303426
+    second: AbejaPolinizarAlas-Sheet_3
+  - first:
+      213: -6383973301618628148
+    second: AbejaPolinizarAlas-Sheet_4
+  - first:
+      213: 4640993295153198547
+    second: AbejaPolinizarAlas-Sheet_5
+  - first:
+      213: -1517482080913407189
+    second: AbejaPolinizarAlas-Sheet_6
+  - first:
+      213: 3846417403698615638
+    second: AbejaPolinizarAlas-Sheet_7
+  - first:
+      213: 6517232939487962885
+    second: AbejaPolinizarAlas-Sheet_8
+  - first:
+      213: -4942051830141918389
+    second: AbejaPolinizarAlas-Sheet_9
+  - first:
+      213: 8653590118719379898
+    second: AbejaPolinizarAlas-Sheet_10
+  - first:
+      213: -3783665636989152049
+    second: AbejaPolinizarAlas-Sheet_11
+  - first:
+      213: 6178230308307945786
+    second: AbejaPolinizarAlas-Sheet_12
+  - first:
+      213: 2000810656517396264
+    second: AbejaPolinizarAlas-Sheet_13
+  - first:
+      213: -6692334796169640539
+    second: AbejaPolinizarAlas-Sheet_14
+  - first:
+      213: -581022411364630512
+    second: AbejaPolinizarAlas-Sheet_15
+  - first:
+      213: 8493479173771017776
+    second: AbejaPolinizarAlas-Sheet_16
+  - first:
+      213: 8129150857754222841
+    second: AbejaPolinizarAlas-Sheet_17
+  - first:
+      213: -6635052595226943657
+    second: AbejaPolinizarAlas-Sheet_18
+  - first:
+      213: 4418737225845687757
+    second: AbejaPolinizarAlas-Sheet_19
+  - first:
+      213: -5095752206450721365
+    second: AbejaPolinizarAlas-Sheet_20
+  - first:
+      213: 318758294485270998
+    second: AbejaPolinizarAlas-Sheet_21
+  - first:
+      213: 3000966048737906250
+    second: AbejaPolinizarAlas-Sheet_22
+  - first:
+      213: 5551518359908539779
+    second: AbejaPolinizarAlas-Sheet_23
+  - first:
+      213: -5963328606621678286
+    second: AbejaPolinizarAlas-Sheet_24
+  - first:
+      213: 685420242960832336
+    second: AbejaPolinizarAlas-Sheet_25
+  - first:
+      213: -129795206155652750
+    second: AbejaPolinizarAlas-Sheet_26
+  - first:
+      213: -6548017621984509278
+    second: AbejaPolinizarAlas-Sheet_27
+  - first:
+      213: -8662439382053271427
+    second: AbejaPolinizarAlas-Sheet_28
+  - first:
+      213: -4179649867866531725
+    second: AbejaPolinizarAlas-Sheet_29
+  - first:
+      213: 2698647861655910358
+    second: AbejaPolinizarAlas-Sheet_30
+  - first:
+      213: 2151538197959330462
+    second: AbejaPolinizarAlas-Sheet_31
+  - first:
+      213: 2175164579379779373
+    second: AbejaPolinizarAlas-Sheet_32
+  - first:
+      213: 7151527275467175663
+    second: AbejaPolinizarAlas-Sheet_33
+  - first:
+      213: -4437542992457888378
+    second: AbejaPolinizarAlas-Sheet_34
+  - first:
+      213: 7753177392931252419
+    second: AbejaPolinizarAlas-Sheet_35
+  - first:
+      213: -9147205848096322715
+    second: AbejaPolinizarAlas-Sheet_36
+  - first:
+      213: 7272048614596311186
+    second: AbejaPolinizarAlas-Sheet_37
+  - first:
+      213: -4733713768381408462
+    second: AbejaPolinizarAlas-Sheet_38
+  - first:
+      213: 2784080239467391037
+    second: AbejaPolinizarAlas-Sheet_39
+  - first:
+      213: -7682087320143645370
+    second: AbejaPolinizarAlas-Sheet_40
+  - first:
+      213: 8759649153223506216
+    second: AbejaPolinizarAlas-Sheet_41
+  - first:
+      213: -7316244506139631394
+    second: AbejaPolinizarAlas-Sheet_42
+  - first:
+      213: -6632294729566893848
+    second: AbejaPolinizarAlas-Sheet_43
+  - first:
+      213: 1709458370120766688
+    second: AbejaPolinizarAlas-Sheet_44
+  - first:
+      213: -5772299495544372796
+    second: AbejaPolinizarAlas-Sheet_45
+  - first:
+      213: -4025030443777136368
+    second: AbejaPolinizarAlas-Sheet_46
+  - first:
+      213: 8936696883613203480
+    second: AbejaPolinizarAlas-Sheet_47
+  - first:
+      213: -2897596489296818336
+    second: AbejaPolinizarAlas-Sheet_48
+  - first:
+      213: -431090890818474046
+    second: AbejaPolinizarAlas-Sheet_49
+  - first:
+      213: 1866623257931337054
+    second: AbejaPolinizarAlas-Sheet_50
+  - first:
+      213: -3287803837833370907
+    second: AbejaPolinizarAlas-Sheet_51
+  - first:
+      213: -2444913599419027710
+    second: AbejaPolinizarAlas-Sheet_52
+  - first:
+      213: 6578298100019781304
+    second: AbejaPolinizarAlas-Sheet_53
+  - first:
+      213: -6615452494625670623
+    second: AbejaPolinizarAlas-Sheet_54
+  - first:
+      213: 6378863056252889085
+    second: AbejaPolinizarAlas-Sheet_55
+  - first:
+      213: -3962029624869805468
+    second: AbejaPolinizarAlas-Sheet_56
+  - first:
+      213: -69200200997260225
+    second: AbejaPolinizarAlas-Sheet_57
+  - first:
+      213: -6920313611499733990
+    second: AbejaPolinizarAlas-Sheet_58
+  - first:
+      213: -5894795273648609924
+    second: AbejaPolinizarAlas-Sheet_59
+  - first:
+      213: 7072282165101126125
+    second: AbejaPolinizarAlas-Sheet_60
+  - first:
+      213: 7485394402078563281
+    second: AbejaPolinizarAlas-Sheet_61
+  - first:
+      213: 7736532959315253687
+    second: AbejaPolinizarAlas-Sheet_62
+  - first:
+      213: 4463977682638325458
+    second: AbejaPolinizarAlas-Sheet_63
+  - first:
+      213: 8042682990017432391
+    second: AbejaPolinizarAlas-Sheet_64
+  - first:
+      213: -5327557050080407219
+    second: AbejaPolinizarAlas-Sheet_65
+  - first:
+      213: -570800806592889582
+    second: AbejaPolinizarAlas-Sheet_66
+  - first:
+      213: -4203796405764740478
+    second: AbejaPolinizarAlas-Sheet_67
+  - first:
+      213: 846048404307779813
+    second: AbejaPolinizarAlas-Sheet_68
+  - first:
+      213: 277408457489635627
+    second: AbejaPolinizarAlas-Sheet_69
+  - first:
+      213: 285971989119150390
+    second: AbejaPolinizarAlas-Sheet_70
+  - first:
+      213: 3058267394823026032
+    second: AbejaPolinizarAlas-Sheet_71
+  - first:
+      213: 5088827329645702496
+    second: AbejaPolinizarAlas-Sheet_72
+  - first:
+      213: -7540312150514460074
+    second: AbejaPolinizarAlas-Sheet_73
+  - first:
+      213: 4618287946708018118
+    second: AbejaPolinizarAlas-Sheet_74
+  - first:
+      213: 4340142469555412321
+    second: AbejaPolinizarAlas-Sheet_75
+  - first:
+      213: -7548188194488581653
+    second: AbejaPolinizarAlas-Sheet_76
+  - first:
+      213: 790479526848196974
+    second: AbejaPolinizarAlas-Sheet_77
+  - first:
+      213: -6204998880470317861
+    second: AbejaPolinizarAlas-Sheet_78
+  - first:
+      213: -5410451351821909870
+    second: AbejaPolinizarAlas-Sheet_79
+  - first:
+      213: -9054482645690660362
+    second: AbejaPolinizarAlas-Sheet_80
+  - first:
+      213: 5590424893829591552
+    second: AbejaPolinizarAlas-Sheet_81
+  - first:
+      213: 8437151075575027969
+    second: AbejaPolinizarAlas-Sheet_82
+  - first:
+      213: -1851562374009596111
+    second: AbejaPolinizarAlas-Sheet_83
+  - first:
+      213: 4786796964599828744
+    second: AbejaPolinizarAlas-Sheet_84
+  - first:
+      213: 7984091993231535328
+    second: AbejaPolinizarAlas-Sheet_85
+  - first:
+      213: 858271403743212917
+    second: AbejaPolinizarAlas-Sheet_86
+  - first:
+      213: 6403059124867311776
+    second: AbejaPolinizarAlas-Sheet_87
+  - first:
+      213: -1517178389142749592
+    second: AbejaPolinizarAlas-Sheet_88
+  - first:
+      213: -8750371756139162180
+    second: AbejaPolinizarAlas-Sheet_89
+  - first:
+      213: 5603668840708010082
+    second: AbejaPolinizarAlas-Sheet_90
+  - first:
+      213: -6035766468361013308
+    second: AbejaPolinizarAlas-Sheet_91
+  - first:
+      213: 2801230470006884875
+    second: AbejaPolinizarAlas-Sheet_92
+  - first:
+      213: -3631905032061548999
+    second: AbejaPolinizarAlas-Sheet_93
+  - first:
+      213: -4371796414547273893
+    second: AbejaPolinizarAlas-Sheet_94
+  - first:
+      213: 6616146530311263633
+    second: AbejaPolinizarAlas-Sheet_95
+  - first:
+      213: 4944660947549355061
+    second: AbejaPolinizarAlas-Sheet_96
+  - first:
+      213: -546601539055736763
+    second: AbejaPolinizarAlas-Sheet_97
+  - first:
+      213: 3170796483565953736
+    second: AbejaPolinizarAlas-Sheet_98
+  - first:
+      213: 8376056720421876463
+    second: AbejaPolinizarAlas-Sheet_99
+  - first:
+      213: 4109196713319807357
+    second: AbejaPolinizarAlas-Sheet_100
+  - first:
+      213: 6794958169461818104
+    second: AbejaPolinizarAlas-Sheet_101
+  - first:
+      213: -6125509232287870359
+    second: AbejaPolinizarAlas-Sheet_102
+  - first:
+      213: 319713745050311708
+    second: AbejaPolinizarAlas-Sheet_103
+  - first:
+      213: 4537222554658541012
+    second: AbejaPolinizarAlas-Sheet_104
+  - first:
+      213: 5475398001102761141
+    second: AbejaPolinizarAlas-Sheet_105
+  - first:
+      213: -8357536842192027765
+    second: AbejaPolinizarAlas-Sheet_106
+  - first:
+      213: -4309172973676405362
+    second: AbejaPolinizarAlas-Sheet_107
+  - first:
+      213: 4430444667403597822
+    second: AbejaPolinizarAlas-Sheet_108
+  - first:
+      213: 8812086933293456012
+    second: AbejaPolinizarAlas-Sheet_109
+  - first:
+      213: 3938676209965470126
+    second: AbejaPolinizarAlas-Sheet_110
+  - first:
+      213: -4898157389670740649
+    second: AbejaPolinizarAlas-Sheet_111
+  - first:
+      213: 4706649209273378801
+    second: AbejaPolinizarAlas-Sheet_112
+  - first:
+      213: -8669528748287955003
+    second: AbejaPolinizarAlas-Sheet_113
+  - first:
+      213: -719207977924583907
+    second: AbejaPolinizarAlas-Sheet_114
+  - first:
+      213: 3527712098133796023
+    second: AbejaPolinizarAlas-Sheet_115
+  - first:
+      213: -6246038782459880831
+    second: AbejaPolinizarAlas-Sheet_116
+  - first:
+      213: 4957295945995505793
+    second: AbejaPolinizarAlas-Sheet_117
+  - first:
+      213: -5564795018399188986
+    second: AbejaPolinizarAlas-Sheet_118
+  - first:
+      213: 2897205327691900598
+    second: AbejaPolinizarAlas-Sheet_119
+  - first:
+      213: -2161717718300481182
+    second: AbejaPolinizarAlas-Sheet_120
+  - first:
+      213: 4325622066817030231
+    second: AbejaPolinizarAlas-Sheet_121
+  - first:
+      213: -6668656306808167643
+    second: AbejaPolinizarAlas-Sheet_122
+  - first:
+      213: 3016629085979035828
+    second: AbejaPolinizarAlas-Sheet_123
+  - first:
+      213: 2099602323336254694
+    second: AbejaPolinizarAlas-Sheet_124
+  - first:
+      213: -3872510985452476466
+    second: AbejaPolinizarAlas-Sheet_125
+  - first:
+      213: 6863222113511256670
+    second: AbejaPolinizarAlas-Sheet_126
+  - first:
+      213: 4956083027704879083
+    second: AbejaPolinizarAlas-Sheet_127
+  - first:
+      213: 4038262613216676284
+    second: AbejaPolinizarAlas-Sheet_128
+  - first:
+      213: -8107613727350570592
+    second: AbejaPolinizarAlas-Sheet_129
+  - first:
+      213: -3157125381089859615
+    second: AbejaPolinizarAlas-Sheet_130
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac3edd13b0fb070800000000000000
+      internalID: 8124224561603660374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08191201597952fd0800000000000000
+      internalID: -2367319362636770944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6614c50cd43d660800000000000000
+      internalID: 7409351300531447502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25df7156b07a3f0800000000000000
+      internalID: -889729872560303426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a17d1b129767a0800000000000000
+      internalID: -6383973301618628148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5739a10de186040800000000000000
+      internalID: 4640993295153198547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23c22e5612d0fae0800000000000000
+      internalID: -1517482080913407189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655165ddf38316530800000000000000
+      internalID: 3846417403698615638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a7a424dcd17a50800000000000000
+      internalID: 6517232939487962885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4362da6b0e4a6bb0800000000000000
+      internalID: -4942051830141918389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab959124d5ab71870800000000000000
+      internalID: 8653590118719379898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 970
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d86e5628bd7bc0800000000000000
+      internalID: -3783665636989152049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394f335bbb7db550800000000000000
+      internalID: 6178230308307945786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827198cf0be44cb10800000000000000
+      internalID: 2000810656517396264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5825cd5fc0023a0800000000000000
+      internalID: -6692334796169640539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010021cf13bcfe7f0800000000000000
+      internalID: -581022411364630512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ebcc3ee46eed570800000000000000
+      internalID: 8493479173771017776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0a00292ab80d070800000000000000
+      internalID: 8129150857754222841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fd67391de8be3a0800000000000000
+      internalID: -6635052595226943657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c35e6812825d30800000000000000
+      internalID: 4418737225845687757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad771fdd504849b0800000000000000
+      internalID: -5095752206450721365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10100eaf47c6400800000000000000
+      internalID: 318758294485270998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec706b8b295a920800000000000000
+      internalID: 3000966048737906250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 873
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d586ef884fa0d40800000000000000
+      internalID: 5551518359908539779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c3633a300e3da0800000000000000
+      internalID: -5963328606621678286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057da87541a138900800000000000000
+      internalID: 685420242960832336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2713b8b92ffd23ef0800000000000000
+      internalID: -129795206155652750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28d9a6aa4c025a0800000000000000
+      internalID: -6548017621984509278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d784c501745d8c780800000000000000
+      internalID: -8662439382053271427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3789e440796eef5c0800000000000000
+      internalID: -4179649867866531725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73edf9ee5837520800000000000000
+      internalID: 2698647861655910358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9acc0a779ccbdd10800000000000000
+      internalID: 2151538197959330462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2791f119acbf2e10800000000000000
+      internalID: 2175164579379779373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6fcb7aa245f3360800000000000000
+      internalID: 7151527275467175663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d0603d82eaa62c0800000000000000
+      internalID: -4437542992457888378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 776
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a142c2c1d89b60800000000000000
+      internalID: 7753177392931252419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc7d0ceb89e0180800000000000000
+      internalID: -9147205848096322715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298726e9fa18be460800000000000000
+      internalID: 7272048614596311186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b104f68687e4eb0800000000000000
+      internalID: -4733713768381408462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3863a32a3a03a620800000000000000
+      internalID: 2784080239467391037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6453e45a84eb36590800000000000000
+      internalID: -7682087320143645370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82930f68e76809970800000000000000
+      internalID: 8759649153223506216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e4a1826a777a90800000000000000
+      internalID: -7316244506139631394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84876351b55f3a0800000000000000
+      internalID: -6632294729566893848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4dd5d945739b710800000000000000
+      internalID: 1709458370120766688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c149e6113ca4efa0800000000000000
+      internalID: -5772299495544372796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019e78c03283428c0800000000000000
+      internalID: -4025030443777136368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 679
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cfa1d8776850c70800000000000000
+      internalID: 8936696883613203480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4b09585ba9c7d0800000000000000
+      internalID: -2897596489296818336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfabda6e15740af0800000000000000
+      internalID: -431090890818474046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dca7a96f397e910800000000000000
+      internalID: 1866623257931337054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a6ca34df5f52d0800000000000000
+      internalID: -3287803837833370907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f6b18f80ce11ed0800000000000000
+      internalID: -2444913599419027710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5e46c44fca4b50800000000000000
+      internalID: 6578298100019781304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7d5d91013134a0800000000000000
+      internalID: -6615452494625670623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e0da2726468850800000000000000
+      internalID: 6378863056252889085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462af044c0b0409c0800000000000000
+      internalID: -3962029624869805468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343c29a8c62a0ff0800000000000000
+      internalID: -69200200997260225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf14c8f6b16ff90800000000000000
+      internalID: -6920313611499733990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 582
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75e58a3eea713ea0800000000000000
+      internalID: -5894795273648609924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1ee2a982bc52260800000000000000
+      internalID: 7072282165101126125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db1793ac8671e760800000000000000
+      internalID: 7485394402078563281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b956119cbfad5b60800000000000000
+      internalID: 7736532959315253687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6cdea1d0c33fd30800000000000000
+      internalID: 4463977682638325458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bc01541995d9f60800000000000000
+      internalID: 8042682990017432391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41545de617b016b0800000000000000
+      internalID: -5327557050080407219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d368dc0bb1418f0800000000000000
+      internalID: -570800806592889582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a245e017d19a5c0800000000000000
+      internalID: -4203796405764740478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02d898a84cdbb00800000000000000
+      internalID: 846048404307779813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29db56b58d89d300800000000000000
+      internalID: 277408457489635627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a82b420af7f300800000000000000
+      internalID: 285971989119150390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 485
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f5900ef5217a20800000000000000
+      internalID: 3058267394823026032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06de4da9e752f9640800000000000000
+      internalID: 5088827329645702496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1605ac0e6b5790800000000000000
+      internalID: -7540312150514460074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3eff53b64771040800000000000000
+      internalID: 4618287946708018118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ddf6cb4984b3c30800000000000000
+      internalID: 4340142469555412321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be106b144d27f3790800000000000000
+      internalID: -7548188194488581653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61710801f858fa00800000000000000
+      internalID: 790479526848196974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ced9c46a63e9a0800000000000000
+      internalID: -6204998880470317861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2908f1c49273ae4b0800000000000000
+      internalID: -5410451351821909870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f94ba6a104085280800000000000000
+      internalID: -9054482645690660362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b63452dd259d40800000000000000
+      internalID: 5590424893829591552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10954f78338c61570800000000000000
+      internalID: 8437151075575027969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 388
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137dda1b4dded46e0800000000000000
+      internalID: -1851562374009596111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80114ee4a7e1e6240800000000000000
+      internalID: 4786796964599828744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec2b96cd513dce60800000000000000
+      internalID: 7984091993231535328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5757dfc5b4139eb00800000000000000
+      internalID: 858271403743212917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82a85695c3cd850800000000000000
+      internalID: 6403059124867311776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3f3e1b46e1fae0800000000000000
+      internalID: -1517178389142749592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5d6becf3f609680800000000000000
+      internalID: -8750371756139162180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26073510f1b34cd40800000000000000
+      internalID: 5603668840708010082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b02a3066ac3ca0800000000000000
+      internalID: -6035766468361013308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac2ca5548ffd620800000000000000
+      internalID: 2801230470006884875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368402bd91e89dc0800000000000000
+      internalID: -3631905032061548999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b575590e2524453c0800000000000000
+      internalID: -4371796414547273893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 291
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195d229273641db50800000000000000
+      internalID: 6616146530311263633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cfc611fe6fe9440800000000000000
+      internalID: 4944660947549355061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a6e6dbc41a68f0800000000000000
+      internalID: -546601539055736763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a10a2a9ee00c20800000000000000
+      internalID: 3170796483565953736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f44f753bbd3470800000000000000
+      internalID: 8376056720421876463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7931a9a3acc60930800000000000000
+      internalID: 4109196713319807357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20962347a8c4e50800000000000000
+      internalID: 6794958169461818104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621b1dbec1ddfaa0800000000000000
+      internalID: -6125509232287870359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c988b05f9df6400800000000000000
+      internalID: 319713745050311708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd005dcfd377fe30800000000000000
+      internalID: 4537222554658541012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc2d9bd8758cfb40800000000000000
+      internalID: 5475398001102761141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f77eba580140c80800000000000000
+      internalID: -8357536842192027765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 194
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddd4ce20eb234c0800000000000000
+      internalID: -4309172973676405362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef77d9593f91c7d30800000000000000
+      internalID: 4430444667403597822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a51dc9062da4a70800000000000000
+      internalID: 8812086933293456012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1164c152df8a630800000000000000
+      internalID: 3938676209965470126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d88be3ecf360cb0800000000000000
+      internalID: -4898157389670740649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ec19d480615140800000000000000
+      internalID: 4706649209273378801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf624c5985afa780800000000000000
+      internalID: -8669528748287955003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e9d24972cd406f0800000000000000
+      internalID: -719207977924583907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ec1f6673f4f030800000000000000
+      internalID: 3527712098133796023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5a2ef1dc9159a0800000000000000
+      internalID: -6246038782459880831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180db83e56adbc440800000000000000
+      internalID: 4957295945995505793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f3701a60e5c2b0800000000000000
+      internalID: -5564795018399188986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 97
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6e17e35e0f43820800000000000000
+      internalID: 2897205327691900598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269280040390002e0800000000000000
+      internalID: -2161717718300481182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75858350a52b70c30800000000000000
+      internalID: 4325622066817030231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e787cb6c2473a0800000000000000
+      internalID: -6668656306808167643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b844e0cb283dd920800000000000000
+      internalID: 3016629085979035828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4da0c5039432d10800000000000000
+      internalID: 2099602323336254694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ae43b6c3124ac0800000000000000
+      internalID: -3872510985452476466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52b17a36201f3f50800000000000000
+      internalID: 6863222113511256670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be711b7514b87c440800000000000000
+      internalID: 4956083027704879083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9458a737aca0830800000000000000
+      internalID: 4038262613216676284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1403d5548fb7f80800000000000000
+      internalID: -8107613727350570592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaPolinizarAlas-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5220588, y: 0.2989691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e4cc6133af24d0800000000000000
+      internalID: -3157125381089859615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

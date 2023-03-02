@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 6e80472dc5af5ea439d904d005249489
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7721743615164155729
+    second: Flor Venenosa Polen-Sheet_0
+  - first:
+      213: 5631860544998745970
+    second: Flor Venenosa Polen-Sheet_1
+  - first:
+      213: -8034173203793985276
+    second: Flor Venenosa Polen-Sheet_2
+  - first:
+      213: 4836755580961870440
+    second: Flor Venenosa Polen-Sheet_3
+  - first:
+      213: 2970613206371087071
+    second: Flor Venenosa Polen-Sheet_4
+  - first:
+      213: 8108236166960617448
+    second: Flor Venenosa Polen-Sheet_5
+  - first:
+      213: 3534783780883670104
+    second: Flor Venenosa Polen-Sheet_6
+  - first:
+      213: 8315620451480828519
+    second: Flor Venenosa Polen-Sheet_7
+  - first:
+      213: -2619261297452901268
+    second: Flor Venenosa Polen-Sheet_8
+  - first:
+      213: 4749237861455987211
+    second: Flor Venenosa Polen-Sheet_9
+  - first:
+      213: -6151709042016890604
+    second: Flor Venenosa Polen-Sheet_10
+  - first:
+      213: -6117018248883294329
+    second: Flor Venenosa Polen-Sheet_11
+  - first:
+      213: 6428403928843417422
+    second: Flor Venenosa Polen-Sheet_12
+  - first:
+      213: -8529882168458037315
+    second: Flor Venenosa Polen-Sheet_13
+  - first:
+      213: -1927472000431531887
+    second: Flor Venenosa Polen-Sheet_14
+  - first:
+      213: -8857485658913461919
+    second: Flor Venenosa Polen-Sheet_15
+  - first:
+      213: 3185015264981935732
+    second: Flor Venenosa Polen-Sheet_16
+  - first:
+      213: 6201505784316798231
+    second: Flor Venenosa Polen-Sheet_17
+  - first:
+      213: -3495914569437181929
+    second: Flor Venenosa Polen-Sheet_18
+  - first:
+      213: 1895435583808226605
+    second: Flor Venenosa Polen-Sheet_19
+  - first:
+      213: -6473104487093690652
+    second: Flor Venenosa Polen-Sheet_20
+  - first:
+      213: 977830014631608745
+    second: Flor Venenosa Polen-Sheet_21
+  - first:
+      213: -8931130147403267733
+    second: Flor Venenosa Polen-Sheet_22
+  - first:
+      213: -536526454064528030
+    second: Flor Venenosa Polen-Sheet_23
+  - first:
+      213: -6511589751601030920
+    second: Flor Venenosa Polen-Sheet_24
+  - first:
+      213: -1689881726576284026
+    second: Flor Venenosa Polen-Sheet_25
+  - first:
+      213: 3525189085881594844
+    second: Flor Venenosa Polen-Sheet_26
+  - first:
+      213: -3620347928463738818
+    second: Flor Venenosa Polen-Sheet_27
+  - first:
+      213: 9106108959842262643
+    second: Flor Venenosa Polen-Sheet_28
+  - first:
+      213: -7226054130814345634
+    second: Flor Venenosa Polen-Sheet_29
+  - first:
+      213: 4911345473695448626
+    second: Flor Venenosa Polen-Sheet_30
+  - first:
+      213: -6342470871295872154
+    second: Flor Venenosa Polen-Sheet_31
+  - first:
+      213: 2971210931904102156
+    second: Flor Venenosa Polen-Sheet_32
+  - first:
+      213: -5333520284174606527
+    second: Flor Venenosa Polen-Sheet_33
+  - first:
+      213: -1778897443081054060
+    second: Flor Venenosa Polen-Sheet_34
+  - first:
+      213: -7811597822282136042
+    second: Flor Venenosa Polen-Sheet_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157008c08e4292b60800000000000000
+      internalID: 7721743615164155729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 275
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772039a353682e40800000000000000
+      internalID: 5631860544998745970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 275
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c5ebb902e08090800000000000000
+      internalID: -8034173203793985276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 275
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862de9c139b9f1340800000000000000
+      internalID: 4836755580961870440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 275
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd235d2e8fcb93920800000000000000
+      internalID: 2970613206371087071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 275
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e799a6a5dd368070800000000000000
+      internalID: 8108236166960617448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8542261ee131e0130800000000000000
+      internalID: 3534783780883670104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 220
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76afc791eb4076370800000000000000
+      internalID: 8315620451480828519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 220
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c14673ab386abd0800000000000000
+      internalID: -2619261297452901268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 220
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028be52caea8e140800000000000000
+      internalID: 4749237861455987211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 220
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411560d283db0aaa0800000000000000
+      internalID: -6151709042016890604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78faabedf4cfb1ba0800000000000000
+      internalID: -6117018248883294329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47ff6b6057463950800000000000000
+      internalID: 6428403928843417422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 165
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7be1d6c55cf9980800000000000000
+      internalID: -8529882168458037315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 165
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19854c38d6e3045e0800000000000000
+      internalID: -1927472000431531887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 165
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a851e8b3e31580800000000000000
+      internalID: -8857485658913461919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 165
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476e1713282733c20800000000000000
+      internalID: 3185015264981935732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715abb267ac201650800000000000000
+      internalID: 6201505784316798231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7188593a8340c7fc0800000000000000
+      internalID: -3495914569437181929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 110
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25468bfe90fd4a10800000000000000
+      internalID: 1895435583808226605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 110
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee1bc4d3c9ea26a0800000000000000
+      internalID: -6473104487093690652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 110
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a105d0b733f19d00800000000000000
+      internalID: 977830014631608745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 110
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610f3933704e0480800000000000000
+      internalID: -8931130147403267733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 110
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26542ec5800ed88f0800000000000000
+      internalID: -536526454064528030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81fbcee9f22a5a0800000000000000
+      internalID: -6511589751601030920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e2ff6e5855c88e0800000000000000
+      internalID: -1689881726576284026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 55
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd37e0edbccfbe030800000000000000
+      internalID: 3525189085881594844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 55
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f8909db0f1cdc0800000000000000
+      internalID: -3620347928463738818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 55
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e566d4ad56f5e70800000000000000
+      internalID: 9106108959842262643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 55
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1115ad06e7bb90800000000000000
+      internalID: -7226054130814345634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef6d8dfaa982440800000000000000
+      internalID: 4911345473695448626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b52ea8540bf7a0800000000000000
+      internalID: -6342470871295872154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb6e4b99cdb3920800000000000000
+      internalID: 2971210931904102156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f9e6b4f878bf5b0800000000000000
+      internalID: -5333520284174606527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989d4553361057e0800000000000000
+      internalID: -1778897443081054060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Polen-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2121212, y: 0.01818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61688a21b21a79390800000000000000
+      internalID: -7811597822282136042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

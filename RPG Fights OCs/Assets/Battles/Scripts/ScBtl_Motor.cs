@@ -6,7 +6,8 @@ public class ScBtl_Motor : MonoBehaviour
 {
     public BattleManager btlMan;
     public Btl_UI_Manager uIMan;
-    public Camera cam;
+    private Game_Manager gMan;
+    //public Camera cam;
     //public List<ActorMotor> listActorsMotor = new List<ActorMotor>();
     /*
     public int m_ui_butSelAbil; // boton de la selección de habilidades
@@ -20,9 +21,10 @@ public class ScBtl_Motor : MonoBehaviour
 
     void Start()
     {
-        cam = FindObjectOfType<Camera>();
+        //cam = FindObjectOfType<Camera>();
         btlMan = FindObjectOfType<BattleManager>();
         uIMan = FindObjectOfType<Btl_UI_Manager>();
+        gMan = FindObjectOfType<Game_Manager>();
         StartCoroutine("LateStart");
         //Time.timeScale = 5;
     }
@@ -111,16 +113,6 @@ public class ScBtl_Motor : MonoBehaviour
     }
     public void CheckEndBattle(bool didVictory)
     {
-
-        // Si se gana
-        if (didVictory)
-        {
-
-        } 
-        // Si se pierde
-        else
-        {
-
-        }
+        gMan.Input_SceneBattle(didVictory);
     }
 }

@@ -180,8 +180,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2014881951988511555, guid: 952b9e9c6dca226498aa7cff116f1246, type: 3}
+      propertyPath: m_ClearFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014881951988511555, guid: 952b9e9c6dca226498aa7cff116f1246, type: 3}
       propertyPath: orthographic size
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014881951988511555, guid: 952b9e9c6dca226498aa7cff116f1246, type: 3}
+      propertyPath: m_BackGroundColor.a
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2014881951988511555, guid: 952b9e9c6dca226498aa7cff116f1246, type: 3}
       propertyPath: m_BackGroundColor.b
@@ -394,6 +402,22 @@ PrefabInstance:
     - target: {fileID: 7660120603991698625, guid: ad50795f9458070419b54d243fbab098, type: 3}
       propertyPath: m_Name
       value: Game Manager
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660120603991698626, guid: ad50795f9458070419b54d243fbab098, type: 3}
+      propertyPath: lastExplorationScene
+      value: L1 R1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660120603991698626, guid: ad50795f9458070419b54d243fbab098, type: 3}
+      propertyPath: backgrndExplorColor.b
+      value: 0.4392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660120603991698626, guid: ad50795f9458070419b54d243fbab098, type: 3}
+      propertyPath: backgrndExplorColor.g
+      value: 0.22745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660120603991698626, guid: ad50795f9458070419b54d243fbab098, type: 3}
+      propertyPath: backgrndExplorColor.r
+      value: 0.11764706
       objectReference: {fileID: 0}
     - target: {fileID: 7660120603991698627, guid: ad50795f9458070419b54d243fbab098, type: 3}
       propertyPath: m_RootOrder

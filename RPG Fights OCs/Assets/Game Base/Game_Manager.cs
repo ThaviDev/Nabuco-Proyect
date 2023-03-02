@@ -10,9 +10,17 @@ public class Game_Manager : MonoBehaviour
     bool changeScene;
     int currentScene;
 
+    // VARIABLES DE EXPLORACION
+    // La escena de exploracion anterior, sirve para saber que escena de exploracion cargar despues de una batalla
+    [SerializeField]
+    string lastExplorationScene;
+    [SerializeField]
+    Color backgrndExplorColor;
+
     // CODIGOS
     Scene_Manager sceneMan;
     Camera myCamera;
+    Cam_Manager camManager;
     PauseManager pauseManager;
     MyDialogueManager myDialogueMan;
 
@@ -25,6 +33,7 @@ public class Game_Manager : MonoBehaviour
         // Encontrar todos los objetos de la base del juego
         sceneMan = FindObjectOfType<Scene_Manager>();
         myCamera = Camera.main;
+        camManager = Camera.main.GetComponent<Cam_Manager>();
         pauseManager = FindObjectOfType<PauseManager>();
         myDialogueMan = FindObjectOfType<MyDialogueManager>();
 
@@ -48,9 +57,16 @@ public class Game_Manager : MonoBehaviour
             case "Main Menu":
                 menuMotor = FindObjectOfType<MenuMotor>();
                 menuMotor.cam = myCamera;
+                camManager.SceneNotExplor(8);
+                myCamera.backgroundColor = Color.black;
                 break;
             case "L1 R1":
-
+                camManager.SceneIsExplor();
+                lastExplorationScene = "L1 R1";
+                myCamera.backgroundColor = backgrndExplorColor;
+                break;
+            case "Battle Scene":
+                camManager.SceneNotExplor(5);
                 break;
         }
     }
@@ -68,16 +84,19 @@ public class Game_Manager : MonoBehaviour
     public void Input_SceneLoaded()
     {
         print("Gman Sabe que estoy en nueva escena");
+        // Se cargo una nueva escena, hay que indicar nuevas instrucciones
         CheckScene();
         //myCamera.GetComponent<CameraManager_OW>().canFollowPlayer = false;
         //myCamera.gameObject.transform.position = new Vector3(0f, 0f, -10f);
         // Checar en que escena estamos
     }
 
-    public void Input_BattleManager(bool isVictory, 
-        bool isDefeat)
+    public void Input_SceneBattle(bool isVictory)
     {
+        // Aquí va a estar la lógica de que hacer cuando se gane o se pierda
 
+        // Cargar la escena de exploracion
+        Output_SceneManager_ChangeScene(lastExplorationScene);
     }
 
 

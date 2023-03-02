@@ -60,8 +60,6 @@ public class Btl_UI_Manager : MonoBehaviour
         GameObject fatherObj_Actors = GameObject.Find("BattleAssets").gameObject.transform.Find("Actors").gameObject;
         GameObject actorsElementsUI = transform.GetChild(0).gameObject.transform.GetChild(0).gameObject.transform.Find("ActorsElements").gameObject;
 
-
-
         // Encontrar Todos los actores en escena y añadirlos a la lista de ActorMotors
         for (int i = 0; i < 6; i++)
         {

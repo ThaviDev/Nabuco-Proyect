@@ -7,7 +7,7 @@ using static System.Collections.Specialized.BitVector32;
 
 public class BattleManager : MonoBehaviour
 {
-    public ScBtl_Motor sceneBtl_Motor;
+    public ScBtl_Motor sceneBtlMotr;
     //private GameObject[] actors; // Objetos de los actores
     //public ActorMotor[] actorsMotor; // Codigos de los objetos de los actores
     public List<ActorMotor> actorsMotor = new List<ActorMotor>();
@@ -48,7 +48,7 @@ public class BattleManager : MonoBehaviour
     void Start()
     {
         // Encontrar Battle Motor
-        sceneBtl_Motor = FindObjectOfType<ScBtl_Motor>();
+        sceneBtlMotr = FindObjectOfType<ScBtl_Motor>();
 
         // Declarar variables
         isAvaliable = false; // El siguiente personaje no puede actuar hasta que sea revisado
@@ -98,6 +98,8 @@ public class BattleManager : MonoBehaviour
                 actorsTransPos[i] = fatherObj_Positions.gameObject.transform.Find("Enemy" + i + "Pos");
             }
         }
+
+        print("Cantidad de actores en escena: " + actorsMotor.Count);
         /*
         actorsMotor = new ActorMotor[listActorsMotor.Count];
         actorsMotor = listActorsMotor.ToArray();
@@ -107,19 +109,26 @@ public class BattleManager : MonoBehaviour
             actorsMotor[i] = listActorsMotor[i];
         }*/
 
+
         for (int i = 0; i < actorsMotor.Count; i++)
         {
             if (actorsMotor[i].actorScOb.isEnemy == false)
             {
+                // Se declara la posicion del personaje
                 actorsMotor[i].actorsData[0] = quantityOfAllies;
+                // Se suma un personaje aliado mas en batalla
                 quantityOfAllies++;
             }
             else
             {
+                // Se declara la posicion del personaje
                 actorsMotor[i].actorsData[0] = quantityOfEnemies + quantityOfAllies;
+                // Se suma un personaje enemigo mas en batalla
                 quantityOfEnemies++;
             }
         }
+        print("Cantidad de aliados: " + quantityOfAllies);
+        print("Cantidad de enemigos: " + quantityOfEnemies);
     }
 
     void Update()
@@ -149,6 +158,11 @@ public class BattleManager : MonoBehaviour
                     ActorsSelection();
                 break;
                 */
+        }
+
+        if (Input.GetKeyDown(KeyCode.V)){
+            print("Presione V para ganar");
+            sceneBtlMotr.CheckEndBattle(true);
         }
     }
     void ActorsSelection()
@@ -333,7 +347,7 @@ public class BattleManager : MonoBehaviour
         possibleAimedActor = -1; // Reiniciar posible actor siendo apuntado
         abilitySelected = -1; // Reiniciar habilidad seleccionada
         // Reiniciar valores de UI
-        sceneBtl_Motor.UpdateUI_Data();
+        sceneBtlMotr.UpdateUI_Data();
     }
 
     void SpeedDetector()
@@ -443,13 +457,15 @@ public class BattleManager : MonoBehaviour
             }
             // Lista de personajes en orden de velocidad : actorSpeedSelector
         }
+        // Si ya no hay mas actores que checar
         else
         {
+            // No se puede actuar
             canAct = false;
             if (isActing == false)
             {
                 // Reiniciar valores de UI
-                sceneBtl_Motor.UpdateUI_Data();
+                sceneBtlMotr.UpdateUI_Data();
                 // Reiniciar el actor actual y la sucesión de batalla
                 currentActor = 0;
                 battleSuccesion = 0;
@@ -539,27 +555,6 @@ public class BattleManager : MonoBehaviour
                     }
                     break;
             }
-
-            /*
-            Instantiate(actionObj); // Instanciar la acción como objeto
-            actionObj = FindObjectOfType<ActionMotor>(); // Encontrarla y guardarla
-            actionObj.actionData = new int[5]; // clasificar un array con 5 elementos
-            // establecer todos los datos correspondientes a la acción
-            actionObj.actionData[0] = _actorScOb.abilities[_actorsData[1]].classification[i];
-            actionObj.actionData[1] = _actorScOb.abilities[_actorsData[1]].applic_Type[i];
-            actionObj.actionData[2] = _actorScOb.abilities[_actorsData[1]].quantity[i];
-            actionObj.actionData[3] = _actorScOb.abilities[_actorsData[1]].applic_Turn[i];
-            actionObj.actionData[4] = _actorScOb.abilities[_actorsData[1]].duration[i];
-            actionObj.transform.SetParent(this.gameObject.transform);
-            //actionObj.actionData[0] = actionDta;
-            //actionObj.transform.SetParent(actorsMotor[i].gameObject.transform);
-
-        }
-
-        yield return new WaitForSeconds((_actorScOb.abilities[_actorsData[1]].abilityData[5] / 100) + 2);
-        // Terminar de ejecutar
-        //actorIsActing = false;
-            */
             // Esperar a que termine de ejecutarse la habilidad para continuar
 
         }
@@ -569,10 +564,12 @@ public class BattleManager : MonoBehaviour
         // Permitir acciones accionar en el actor
         actorsMotor[currentActingActor].StartCoroutine("CanAction");
         // Actualizar los datos de la interfaz
-        sceneBtl_Motor.UpdateUI_Data();
+        sceneBtlMotr.UpdateUI_Data();
         // Ya no se está actuando
         isActing = false;
+        // Indicarle al actor que deje de actuar
         actorsMotor[currentActingActor].actorIsActing = false;
+        // Se va al siguiente personaje de la lista
         currentActor++;
 
     }
@@ -585,14 +582,14 @@ public class BattleManager : MonoBehaviour
     */
     IEnumerator InstantiateAnAction(int spawnPos, int actionID)
     {
-        sceneBtl_Motor.UpdateUI_Data();
+        sceneBtlMotr.UpdateUI_Data();
         // Esperar a que se pueda ejecutar la habilidad
         yield return new WaitForSeconds(actorsMotor[currentActingActor].actorScOb.abilities[(int)actorsMotor[currentActingActor].actorsData[1]].abilityData[4] / 100);
         //print("PAAAM");
 
         Instantiate(actionObj); // Instanciar la acción como objeto
         myAction = FindObjectOfType<ActionMotor>(); // Encontrarla y guardarla
-        myAction.actionData = new float[6]; // clasificar un array con 5 elementos
+        myAction.actionData = new float[13]; // clasificar un array con 5 elementos
                                           // establecer todos los datos correspondientes a la acción
 
         // Clasificación
@@ -605,8 +602,29 @@ public class BattleManager : MonoBehaviour
         myAction.actionData[3] = actorsMotor[currentActingActor].actorScOb.abilities[(int)actorsMotor[currentActingActor].actorsData[1]].applic_Turn[actionID];
         // Duración en turnos para desaparecer
         myAction.actionData[4] = actorsMotor[currentActingActor].actorScOb.abilities[(int)actorsMotor[currentActingActor].actorsData[1]].duration[actionID];
-        // Valor de daño del personaje
-        myAction.actionData[5] = actorsMotor[currentActingActor].actorsData[5];
+        
+        // Aqui se aplicarian todos los valores que necesita action motor para poder aplicar correctamente sus acciones
+
+        // Valor de daño del personaje aplicador
+        myAction.actionData[5] = actorsMotor[currentActingActor].actorsData[4];
+        // Valor de multiplicador de danio del aplicador
+        myAction.actionData[6] = actorsMotor[currentActingActor].actorsData[8];
+        // Valor de curacion del personaje aplicador 
+        myAction.actionData[7] = actorsMotor[currentActingActor].actorsData[6];
+        // Valor de multiplicador de curacion del personaje aplicador
+        myAction.actionData[8] = actorsMotor[currentActingActor].actorsData[10];
+        // Valor de multiplicador de resistencia del personaje aplicador
+        myAction.actionData[9] = actorsMotor[currentActingActor].actorsData[9];
+        // Valor de multiplicador de aceleracion del personaje aplicador
+        myAction.actionData[10] = actorsMotor[currentActingActor].actorsData[11];
+        // Valor de multiplicador de desaceleracion del personaje aplicador
+        myAction.actionData[11] = actorsMotor[currentActingActor].actorsData[12];
+        // Valor de multiplicador de curacion del personaje aplicador
+        myAction.actionData[12] = actorsMotor[currentActingActor].actorsData[10];
+
+
+
+
         // Objeto del actor al que se le va a aplicar la acción
         myAction.transform.SetParent(actorsMotor[spawnPos].gameObject.transform);
         yield return new WaitForSeconds((actorsMotor[currentActingActor].actorScOb.abilities[(int)actorsMotor[currentActingActor].actorsData[1]].abilityData[5] / 100));
@@ -634,7 +652,7 @@ public class BattleManager : MonoBehaviour
         if (isDefeat == true)
         {
             // Se comunica con Scene Battle Motor para avisarle
-            sceneBtl_Motor.CheckEndBattle(isDefeat);
+            sceneBtlMotr.CheckEndBattle(isDefeat);
             // Terminar de leer el código
             return;
         }
@@ -652,7 +670,7 @@ public class BattleManager : MonoBehaviour
         if (isVictory == true)
         {
             // Se comunica con Scene Battle Motor para avisarle
-            sceneBtl_Motor.CheckEndBattle(isVictory);
+            sceneBtlMotr.CheckEndBattle(isVictory);
         }
     }
 }

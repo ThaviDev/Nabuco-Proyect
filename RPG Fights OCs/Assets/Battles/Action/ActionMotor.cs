@@ -14,10 +14,12 @@ public class ActionMotor : MonoBehaviour
     bool canActivate; // Si la accion puede ser ejecutada, lo checa para que solo suceda una sola vez por actuacion
     //bool checkFatherActing; // Si se puede revisar el estado de acción del actor padre, para checar si actua o no
     ActorMotor fatherActor; // Padre actor de la acción
+    BattleManager btlMan;
 
     void Start()
     {
         fatherActor = this.transform.parent.gameObject.GetComponent<ActorMotor>();
+        btlMan = FindObjectOfType<BattleManager>();
         // Se declara falsa esta variable para que pueda iniciarse el bucle de checar si el actor padre está actuando
         //checkFatherActing = true;
         //print(fatherActor);
@@ -96,33 +98,34 @@ public class ActionMotor : MonoBehaviour
         {
             case 0:
                 // ATAQUE: Le quita la vida al personaje, se multiplica por el daño del actor original y por la resistencia del personaje
-                // daño del actor original : actionData[5]
-                // Vic-Vida Presente += (Atc-Cantidad * Atc-Valor de Danio) / Vic-resistencia presente
-                fatherActor.actorsData[3] += (actionData[2] * actionData[5]) / fatherActor.actorsData[5];
+                // valor de danio del personaje aplicador : actionData[5]
+                // valor de mutliplicador de danio del personaje aplicador : actionData[6];
+                //fatherActor.actorsData[3] += (actionData[2] * actionData[5]) / fatherActor.actorsData[5];
+                fatherActor.actorsData[3] += (actionData[2] * (actionData[6] * actionData[5])) / fatherActor.actorsData[5];
                 break;
             case 1:
-                // CURACIÓN: Le aumenta la vida al personaje, se multiplica por la curación del personaje
-                fatherActor.actorsData[3] += (actionData[2] * fatherActor.actorsData[6]);
+                // CURACIÓN: Le aumenta la vida al personaje aplicado, se multiplica por la curacion del personaje aplicador y su valor de curacion
+                fatherActor.actorsData[3] += (actionData[2] * (actionData[7] * actionData[8]));
                 break;
             case 2:
                 // CAMBIO RESISTENCIA: Cambia el valor de resistencia del personaje, se multiplica por el multiplicador de resistencia
-                fatherActor.actorsData[5] += (actionData[2] * fatherActor.actorsData[9]);
+                fatherActor.actorsData[5] += (actionData[2] * actionData[9]);
                 break;
             case 3:
                 // AUMENTO DE VELOCIDAD: Aumenta la velocidad del personaje, se multiplica por el multiplicador de aceleración
-                fatherActor.actorsData[7] += (actionData[2] * fatherActor.actorsData[11]);
+                fatherActor.actorsData[7] += (actionData[2] * actionData[10]);
                 break;
             case 4:
                 // REDUCCIÓN DE VELOCIDAD: Reduce la velocidad del personaje, se multiplica por el multiplicador de desaceleración
-                fatherActor.actorsData[7] += (actionData[2] * fatherActor.actorsData[12]);
+                fatherActor.actorsData[7] += (actionData[2] * actionData[11]);
                 break;
             case 5:
                 // CAMBIO DE CURACIÓN: Cambia el valor de la curación del personaje, se multiplica por el multiplicador de curación
-                fatherActor.actorsData[6] += (actionData[2] * fatherActor.actorsData[10]);
+                fatherActor.actorsData[6] += (actionData[2] * actionData[12]);
                 break;
             case 6:
                 // CAMBIO DE DAÑO: Cambia el valor del daño del personaje, se multiplica por el multiplicador de daño
-                fatherActor.actorsData[4] += (actionData[2] * fatherActor.actorsData[8]);
+                fatherActor.actorsData[4] += (actionData[2] * actionData[6]);
                 break;
             case 7:
                 // CAMBIO COOLDOWN: Cambia la duración del cooldown despues de utilizar una habilidad

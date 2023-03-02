@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: eb9f21fa0ce0c4844a1853436db7e04f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8250305790398047705
+    second: AbejaAzulNectar-Sheet_0
+  - first:
+      213: 1721784374585989408
+    second: AbejaAzulNectar-Sheet_1
+  - first:
+      213: -3010148339426377838
+    second: AbejaAzulNectar-Sheet_2
+  - first:
+      213: -926200006161578905
+    second: AbejaAzulNectar-Sheet_3
+  - first:
+      213: 2324218613267583197
+    second: AbejaAzulNectar-Sheet_4
+  - first:
+      213: -4254044599052146793
+    second: AbejaAzulNectar-Sheet_5
+  - first:
+      213: -5765166812845642084
+    second: AbejaAzulNectar-Sheet_6
+  - first:
+      213: -7376894265398290719
+    second: AbejaAzulNectar-Sheet_7
+  - first:
+      213: 8631332182942926603
+    second: AbejaAzulNectar-Sheet_8
+  - first:
+      213: -5436325562017491426
+    second: AbejaAzulNectar-Sheet_9
+  - first:
+      213: 7636570569784482590
+    second: AbejaAzulNectar-Sheet_10
+  - first:
+      213: 1196013459113420259
+    second: AbejaAzulNectar-Sheet_11
+  - first:
+      213: -7358923422515439339
+    second: AbejaAzulNectar-Sheet_12
+  - first:
+      213: 526846639204503575
+    second: AbejaAzulNectar-Sheet_13
+  - first:
+      213: 8822632507734474830
+    second: AbejaAzulNectar-Sheet_14
+  - first:
+      213: -1404669797348147233
+    second: AbejaAzulNectar-Sheet_15
+  - first:
+      213: -1728568260861426208
+    second: AbejaAzulNectar-Sheet_16
+  - first:
+      213: -3346002954750253383
+    second: AbejaAzulNectar-Sheet_17
+  - first:
+      213: -2585936098902035881
+    second: AbejaAzulNectar-Sheet_18
+  - first:
+      213: -3904389086038738325
+    second: AbejaAzulNectar-Sheet_19
+  - first:
+      213: -6413617932813323850
+    second: AbejaAzulNectar-Sheet_20
+  - first:
+      213: 76957379367462725
+    second: AbejaAzulNectar-Sheet_21
+  - first:
+      213: -4267872306756778969
+    second: AbejaAzulNectar-Sheet_22
+  - first:
+      213: -8000892451656660229
+    second: AbejaAzulNectar-Sheet_23
+  - first:
+      213: -7126119409572004000
+    second: AbejaAzulNectar-Sheet_24
+  - first:
+      213: 2932996656662885240
+    second: AbejaAzulNectar-Sheet_25
+  - first:
+      213: -8525058684928464488
+    second: AbejaAzulNectar-Sheet_26
+  - first:
+      213: -4333783223954320706
+    second: AbejaAzulNectar-Sheet_27
+  - first:
+      213: 7842501595482175463
+    second: AbejaAzulNectar-Sheet_28
+  - first:
+      213: -6932169585451869289
+    second: AbejaAzulNectar-Sheet_29
+  - first:
+      213: 4947195807057401399
+    second: AbejaAzulNectar-Sheet_30
+  - first:
+      213: -1111377082878431723
+    second: AbejaAzulNectar-Sheet_31
+  - first:
+      213: 5916438510970656881
+    second: AbejaAzulNectar-Sheet_32
+  - first:
+      213: 7615821152299066482
+    second: AbejaAzulNectar-Sheet_33
+  - first:
+      213: 7490802747838247111
+    second: AbejaAzulNectar-Sheet_34
+  - first:
+      213: 7868498851510267110
+    second: AbejaAzulNectar-Sheet_35
+  - first:
+      213: 2658474924783649740
+    second: AbejaAzulNectar-Sheet_36
+  - first:
+      213: 3516866420279427472
+    second: AbejaAzulNectar-Sheet_37
+  - first:
+      213: 5002698039915132783
+    second: AbejaAzulNectar-Sheet_38
+  - first:
+      213: -2055085545914896636
+    second: AbejaAzulNectar-Sheet_39
+  - first:
+      213: 282837526945081619
+    second: AbejaAzulNectar-Sheet_40
+  - first:
+      213: -1876605499662504991
+    second: AbejaAzulNectar-Sheet_41
+  - first:
+      213: 361412108604621914
+    second: AbejaAzulNectar-Sheet_42
+  - first:
+      213: -1755551033284777771
+    second: AbejaAzulNectar-Sheet_43
+  - first:
+      213: 8972923109358544334
+    second: AbejaAzulNectar-Sheet_44
+  - first:
+      213: 3261272489551934416
+    second: AbejaAzulNectar-Sheet_45
+  - first:
+      213: -408423448261051305
+    second: AbejaAzulNectar-Sheet_46
+  - first:
+      213: 803601088634517253
+    second: AbejaAzulNectar-Sheet_47
+  - first:
+      213: 6359079875591391528
+    second: AbejaAzulNectar-Sheet_48
+  - first:
+      213: 4906055095770669904
+    second: AbejaAzulNectar-Sheet_49
+  - first:
+      213: 2069563700604156130
+    second: AbejaAzulNectar-Sheet_50
+  - first:
+      213: 7367260172950888944
+    second: AbejaAzulNectar-Sheet_51
+  - first:
+      213: 1260266925672951208
+    second: AbejaAzulNectar-Sheet_52
+  - first:
+      213: -8967932205276077427
+    second: AbejaAzulNectar-Sheet_53
+  - first:
+      213: -3357179696509959101
+    second: AbejaAzulNectar-Sheet_54
+  - first:
+      213: 4780848147894587169
+    second: AbejaAzulNectar-Sheet_55
+  - first:
+      213: 8163293885023899068
+    second: AbejaAzulNectar-Sheet_56
+  - first:
+      213: 7796961364676185312
+    second: AbejaAzulNectar-Sheet_57
+  - first:
+      213: -1521753413142741041
+    second: AbejaAzulNectar-Sheet_58
+  - first:
+      213: 3083042208329862731
+    second: AbejaAzulNectar-Sheet_59
+  - first:
+      213: 2925375868633133387
+    second: AbejaAzulNectar-Sheet_60
+  - first:
+      213: 2502826154004587541
+    second: AbejaAzulNectar-Sheet_61
+  - first:
+      213: 1201256009719321906
+    second: AbejaAzulNectar-Sheet_62
+  - first:
+      213: -6336624799462384173
+    second: AbejaAzulNectar-Sheet_63
+  - first:
+      213: -6804761852992854860
+    second: AbejaAzulNectar-Sheet_64
+  - first:
+      213: -3682657983277349562
+    second: AbejaAzulNectar-Sheet_65
+  - first:
+      213: -1684458714599220783
+    second: AbejaAzulNectar-Sheet_66
+  - first:
+      213: -6013716192307753550
+    second: AbejaAzulNectar-Sheet_67
+  - first:
+      213: 3010160636617830752
+    second: AbejaAzulNectar-Sheet_68
+  - first:
+      213: 25245777059036282
+    second: AbejaAzulNectar-Sheet_69
+  - first:
+      213: 8609149010804114808
+    second: AbejaAzulNectar-Sheet_70
+  - first:
+      213: 8065550249484955869
+    second: AbejaAzulNectar-Sheet_71
+  - first:
+      213: -2588076916350485540
+    second: AbejaAzulNectar-Sheet_72
+  - first:
+      213: -2770359071211738631
+    second: AbejaAzulNectar-Sheet_73
+  - first:
+      213: 7197923064592481475
+    second: AbejaAzulNectar-Sheet_74
+  - first:
+      213: 8116744873658401812
+    second: AbejaAzulNectar-Sheet_75
+  - first:
+      213: 5985981669992095756
+    second: AbejaAzulNectar-Sheet_76
+  - first:
+      213: -8057254301692996250
+    second: AbejaAzulNectar-Sheet_77
+  - first:
+      213: 5169011133419780451
+    second: AbejaAzulNectar-Sheet_78
+  - first:
+      213: 7225671033706661642
+    second: AbejaAzulNectar-Sheet_79
+  - first:
+      213: -3275454501917900529
+    second: AbejaAzulNectar-Sheet_80
+  - first:
+      213: -5614950261373797705
+    second: AbejaAzulNectar-Sheet_81
+  - first:
+      213: 5902822133720901070
+    second: AbejaAzulNectar-Sheet_82
+  - first:
+      213: -8964002161902351352
+    second: AbejaAzulNectar-Sheet_83
+  - first:
+      213: -4497553205928398571
+    second: AbejaAzulNectar-Sheet_84
+  - first:
+      213: -7104361295113451725
+    second: AbejaAzulNectar-Sheet_85
+  - first:
+      213: 2024255773705441338
+    second: AbejaAzulNectar-Sheet_86
+  - first:
+      213: 1864635037609908686
+    second: AbejaAzulNectar-Sheet_87
+  - first:
+      213: -9138956720595160861
+    second: AbejaAzulNectar-Sheet_88
+  - first:
+      213: 5277637666470117663
+    second: AbejaAzulNectar-Sheet_89
+  - first:
+      213: 1272096109778578276
+    second: AbejaAzulNectar-Sheet_90
+  - first:
+      213: 8774145915734189399
+    second: AbejaAzulNectar-Sheet_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d526058769fe7270800000000000000
+      internalID: 8250305790398047705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029140b24c105e710800000000000000
+      internalID: 1721784374585989408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3243a80ec936d0800000000000000
+      internalID: -3010148339426377838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76446c9600a7523f0800000000000000
+      internalID: -926200006161578905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd05a28b388414020800000000000000
+      internalID: 2324218613267583197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e3ded9f896f4c0800000000000000
+      internalID: -4254044599052146793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee67134530effa0800000000000000
+      internalID: -5765166812845642084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6915500c100a990800000000000000
+      internalID: -7376894265398290719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07c5beb3e6a8c770800000000000000
+      internalID: 8631332182942926603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1062
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16529844ba4e84b0800000000000000
+      internalID: -5436325562017491426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd432197c8af960800000000000000
+      internalID: 7636570569784482590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5aa0187e7199010800000000000000
+      internalID: 1196013459113420259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5195aafe22adfd990800000000000000
+      internalID: -7358923422515439339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71094ec1a3cbf4700800000000000000
+      internalID: 526846639204503575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c35f7589407a70800000000000000
+      internalID: 8822632507734474830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff756f24c918ce0800000000000000
+      internalID: -1404669797348147233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e507593354e208e0800000000000000
+      internalID: -1728568260861426208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b624b06a0c9091d0800000000000000
+      internalID: -3346002954750253383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b515a1d8ec1cd0800000000000000
+      internalID: -2585936098902035881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 944
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6abfb500d2d0d9c0800000000000000
+      internalID: -3904389086038738325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1369d88704ef6a0800000000000000
+      internalID: -6413617932813323850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547ea0c2458611100800000000000000
+      internalID: 76957379367462725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240909cfb875c4c0800000000000000
+      internalID: -4267872306756778969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa86eca4be17f090800000000000000
+      internalID: -8000892451656660229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb17d1720fa1d90800000000000000
+      internalID: -7126119409572004000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873bcc76be814b820800000000000000
+      internalID: 2932996656662885240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ea733b48e0b980800000000000000
+      internalID: -8525058684928464488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2d7a28e1f4bd3c0800000000000000
+      internalID: -4333783223954320706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7362556a926dc60800000000000000
+      internalID: 7842501595482175463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 826
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bdf508d7cfbcf90800000000000000
+      internalID: -6932169585451869289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73655f90068f7a440800000000000000
+      internalID: 4947195807057401399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e65837e689390f0800000000000000
+      internalID: -1111377082878431723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d8d5aa796b1250800000000000000
+      internalID: 5916438510970656881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27421b7dcf4d0b960800000000000000
+      internalID: 7615821152299066482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03b63496da4f760800000000000000
+      internalID: 7490802747838247111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca6df2406823d60800000000000000
+      internalID: 7868498851510267110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc34300ebdcc4e420800000000000000
+      internalID: 2658474924783649740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914147406b6ec030800000000000000
+      internalID: 3516866420279427472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f673fa3ac572d6540800000000000000
+      internalID: 5002698039915132783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 708
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe3b4959eda73e0800000000000000
+      internalID: -2055085545914896636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31926b27b37dce300800000000000000
+      internalID: 282837526945081619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb6211ad35f4f5e0800000000000000
+      internalID: -1876605499662504991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5447eed56ef30500800000000000000
+      internalID: 361412108604621914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8adf3f2a703a7e0800000000000000
+      internalID: -1755551033284777771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a532070a368c70800000000000000
+      internalID: 8972923109358544334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d33f7fdc0e524d20800000000000000
+      internalID: 3261272489551934416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb578a90df45af0800000000000000
+      internalID: -408423448261051305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5077d25bee6f62b00800000000000000
+      internalID: 803601088634517253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c5fa747dff3850800000000000000
+      internalID: 6359079875591391528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 590
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e7efbd1fc51440800000000000000
+      internalID: 4906055095770669904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8bd8e783198bc10800000000000000
+      internalID: 2069563700604156130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ee980814cd3660800000000000000
+      internalID: 7367260172950888944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ade8ea771e5d7110800000000000000
+      internalID: 1260266925672951208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ebb66c218b8380800000000000000
+      internalID: -8967932205276077427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ce566ad6e861d0800000000000000
+      internalID: -3357179696509959101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f475c7f0cf85240800000000000000
+      internalID: 4780848147894587169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc7f59988d94170800000000000000
+      internalID: 8163293885023899068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec08f41d0f543c60800000000000000
+      internalID: 7796961364676185312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf73e55555a1eae0800000000000000
+      internalID: -1521753413142741041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 472
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e8907cd8a29ca20800000000000000
+      internalID: 3083042208329862731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b06c6ad5099820800000000000000
+      internalID: 2925375868633133387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51420046023dbb220800000000000000
+      internalID: 2502826154004587541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359f9fe9f7bba010800000000000000
+      internalID: 1201256009719321906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1d195159cf08a0800000000000000
+      internalID: -6336624799462384173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b46b3bd521a091a0800000000000000
+      internalID: -6804761852992854860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6454f75631294ecc0800000000000000
+      internalID: -3682657983277349562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9908549b99f98e0800000000000000
+      internalID: -1684458714599220783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4b713cfcfa8ca0800000000000000
+      internalID: -6013716192307753550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613876862d36c920800000000000000
+      internalID: 3010160636617830752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 354
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cbea586e0b95000800000000000000
+      internalID: 25245777059036282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875826f7967d97770800000000000000
+      internalID: 8609149010804114808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd03d9208379eef60800000000000000
+      internalID: 8065550249484955869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7a8db1cd451cd0800000000000000
+      internalID: -2588076916350485540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a42c4a15bd89d0800000000000000
+      internalID: -2770359071211738631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc30a914e824e360800000000000000
+      internalID: 7197923064592481475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414c1ee457874a070800000000000000
+      internalID: 8116744873658401812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e0ef1d9a721350800000000000000
+      internalID: 5985981669992095756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665d99ad6e1ee2090800000000000000
+      internalID: -8057254301692996250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369768f3d340cb740800000000000000
+      internalID: 5169011133419780451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 236
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074aeb958db64460800000000000000
+      internalID: 7225671033706661642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ca3f0c7f3b82d0800000000000000
+      internalID: -3275454501917900529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baf35f8c70b312b0800000000000000
+      internalID: -5614950261373797705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56fb4c4790be150800000000000000
+      internalID: 5902822133720901070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0afde687799380800000000000000
+      internalID: -8964002161902351352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511f732303b7591c0800000000000000
+      internalID: -4497553205928398571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3378ab8ea0d386d90800000000000000
+      internalID: -7104361295113451725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a301f36b6e9971c10800000000000000
+      internalID: 2024255773705441338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95c7cffa380e910800000000000000
+      internalID: 1864635037609908686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b14b6847eb2180800000000000000
+      internalID: -9138956720595160861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 118
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114c2bde7fed3940800000000000000
+      internalID: 5277637666470117663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b22870ca467a110800000000000000
+      internalID: 1272096109778578276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaAzulNectar-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6470588, y: 0.03389831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755e7c2193704c970800000000000000
+      internalID: 8774145915734189399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

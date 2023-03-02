@@ -16,8 +16,12 @@ public class ActorMotor : MonoBehaviour
     // Lista para los estados
     List<int> States = new List<int>();
 
-    // Llamar a Battle Manager que el personaje ya está actuando
+    // Battle Manager determina cuando el personaje ya está actuando
     public bool actorIsActing;
+    // Battle Manager determina cuando el personaje se esta moviendo o esta en idle
+    public bool actorIsMoving;
+    // La variable que determina que otra animacion va a hacer el personaje de las otras opciones de animaciones
+    int otherAnimValue;
 
     // LLamar a todas las acciones de que es hora de acccionarse, se llama a través de Battle Manager
     public bool canActionActivate;
@@ -25,6 +29,8 @@ public class ActorMotor : MonoBehaviour
     public GameObject action;
 
     private ActionMotor myAction; // SCOB de la acción, todas las acciones son iguales, se declara diferencias en el codigo
+
+
     void Start()
     {
         // Declarar datos de actores
@@ -38,17 +44,42 @@ public class ActorMotor : MonoBehaviour
     }
     void Update()
     {
+        // Contolador de las variables de las animaciones
         if (actorIsActing)
         {
             animator.SetInteger("BattleAbil", (int)actorsData[1] + 1);
-        } else
+            animator.SetBool("IsIdle", false);
+            animator.SetBool("IsMoving", false);
+            animator.SetInteger("OtherAnim", 0);
+        }
+        else if (!actorIsActing)
         {
             animator.SetInteger("BattleAbil", 0);
+            animator.SetInteger("OtherAnim", 0);
+            if (actorIsMoving)
+            {
+                animator.SetBool("IsIdle", false);
+                animator.SetBool("IsMoving", true);
+            }
+            else
+            {
+                animator.SetBool("IsIdle", true);
+                animator.SetBool("IsMoving", false);
+            }
+        } else
+        {
+            animator.SetInteger("OtherAnim", otherAnimValue);
         }
         /*
         actionDatatest = actorScOb.abilities[0].actionObjective[0];
         print(actionDatatest);
         */
+    }
+
+    // Input de la animación que acaba de activar la acción
+    public void AnimationAction(int abilNum)
+    {
+        print("Actor Acaba de actuar la habilidad número: " + abilNum);
     }
 
     public IEnumerator CanAction()

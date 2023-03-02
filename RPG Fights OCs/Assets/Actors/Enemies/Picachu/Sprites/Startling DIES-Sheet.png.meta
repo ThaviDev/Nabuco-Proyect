@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: b2790f3e4e6d8cb4389cc8af258da118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -583464327089646760
+    second: Startling DIES-Sheet_0
+  - first:
+      213: 4410773036734423258
+    second: Startling DIES-Sheet_1
+  - first:
+      213: 4818298629250072636
+    second: Startling DIES-Sheet_2
+  - first:
+      213: -2855425394860029226
+    second: Startling DIES-Sheet_3
+  - first:
+      213: 1167198063852458361
+    second: Startling DIES-Sheet_4
+  - first:
+      213: -7987212393259230014
+    second: Startling DIES-Sheet_5
+  - first:
+      213: 7084466153999069181
+    second: Startling DIES-Sheet_6
+  - first:
+      213: -4020731155129489172
+    second: Startling DIES-Sheet_7
+  - first:
+      213: 4764173453713371216
+    second: Startling DIES-Sheet_8
+  - first:
+      213: 2929440459860086914
+    second: Startling DIES-Sheet_9
+  - first:
+      213: 1177360823973629627
+    second: Startling DIES-Sheet_10
+  - first:
+      213: -7986682501156987469
+    second: Startling DIES-Sheet_11
+  - first:
+      213: -5043043294663779971
+    second: Startling DIES-Sheet_12
+  - first:
+      213: -7609438071087293076
+    second: Startling DIES-Sheet_13
+  - first:
+      213: 483911609797857811
+    second: Startling DIES-Sheet_14
+  - first:
+      213: 2115791974059907622
+    second: Startling DIES-Sheet_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85395bc294e17e7f0800000000000000
+      internalID: -583464327089646760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 210
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad02d6725b6363d30800000000000000
+      internalID: 4410773036734423258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 210
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c33a23190ed240800000000000000
+      internalID: 4818298629250072636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 210
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0db86bbd7f58d0800000000000000
+      internalID: -2855425394860029226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971137a7478b23010800000000000000
+      internalID: 1167198063852458361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 140
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc9f2a75a8b72190800000000000000
+      internalID: -7987212393259230014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 140
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff64649e64115260800000000000000
+      internalID: 7084466153999069181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 140
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82921315e7338c0800000000000000
+      internalID: -4020731155129489172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507ee4b38ebd1240800000000000000
+      internalID: 4764173453713371216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2801e90d39677a820800000000000000
+      internalID: 2929440459860086914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbec8657e63d65010800000000000000
+      internalID: 1177360823973629627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd95b8949a992190800000000000000
+      internalID: -7986682501156987469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7956aab7d2830ab0800000000000000
+      internalID: -5043043294663779971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d12801468d56690800000000000000
+      internalID: -7609438071087293076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31250b49b0337b600800000000000000
+      internalID: 483911609797857811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startling DIES-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.07142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a9678279dcc5d10800000000000000
+      internalID: 2115791974059907622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

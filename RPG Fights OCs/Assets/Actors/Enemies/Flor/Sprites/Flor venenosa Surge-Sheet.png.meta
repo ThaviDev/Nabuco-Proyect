@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 842f0bb67e90c7a42b9fbd20d78b1fa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6262277241734423730
+    second: Flor venenosa Surge-Sheet_0
+  - first:
+      213: -2233559814044815611
+    second: Flor venenosa Surge-Sheet_1
+  - first:
+      213: 2890048256783987231
+    second: Flor venenosa Surge-Sheet_2
+  - first:
+      213: -6655870467926037342
+    second: Flor venenosa Surge-Sheet_3
+  - first:
+      213: -2284164007670512176
+    second: Flor venenosa Surge-Sheet_4
+  - first:
+      213: -4839481798576793989
+    second: Flor venenosa Surge-Sheet_5
+  - first:
+      213: 6073263353180810164
+    second: Flor venenosa Surge-Sheet_6
+  - first:
+      213: -7660152356349429182
+    second: Flor venenosa Surge-Sheet_7
+  - first:
+      213: 5595831001758791824
+    second: Flor venenosa Surge-Sheet_8
+  - first:
+      213: 6152798367198766717
+    second: Flor venenosa Surge-Sheet_9
+  - first:
+      213: 6028319582878786527
+    second: Flor venenosa Surge-Sheet_10
+  - first:
+      213: 4852611155049709893
+    second: Flor venenosa Surge-Sheet_11
+  - first:
+      213: 1098976228975392952
+    second: Flor venenosa Surge-Sheet_12
+  - first:
+      213: -5561992262820729829
+    second: Flor venenosa Surge-Sheet_13
+  - first:
+      213: -5766633457263816423
+    second: Flor venenosa Surge-Sheet_14
+  - first:
+      213: -7389676246249858009
+    second: Flor venenosa Surge-Sheet_15
+  - first:
+      213: 717368756360441921
+    second: Flor venenosa Surge-Sheet_16
+  - first:
+      213: -5169725600456587103
+    second: Flor venenosa Surge-Sheet_17
+  - first:
+      213: 5608159456202985991
+    second: Flor venenosa Surge-Sheet_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b1861170ce719a0800000000000000
+      internalID: -6262277241734423730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 105
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f654bde2dc001e0800000000000000
+      internalID: -2233559814044815611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 105
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b851d3938b1820800000000000000
+      internalID: 2890048256783987231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 105
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6140e21991a3a0800000000000000
+      internalID: -6655870467926037342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 105
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50112efe40d40e0800000000000000
+      internalID: -2284164007670512176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769cd2e1f4b6dcb0800000000000000
+      internalID: -4839481798576793989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb6db997d0984450800000000000000
+      internalID: 6073263353180810164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 70
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abb62640ca1b590800000000000000
+      internalID: -7660152356349429182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 70
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09873fae5a268ad40800000000000000
+      internalID: 5595831001758791824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 70
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d766c7b1481236550800000000000000
+      internalID: 6152798367198766717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36502a8b4e8a350800000000000000
+      internalID: 6028319582878786527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54106d1a220f75340800000000000000
+      internalID: 4852611155049709893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 35
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83da0ce09504f00800000000000000
+      internalID: 1098976228975392952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 35
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c69137185dfc2b0800000000000000
+      internalID: -5561992262820729829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 35
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91158ed6c6dc8ffa0800000000000000
+      internalID: -5766633457263816423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c92213b98927990800000000000000
+      internalID: -7389676246249858009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f3d7451b94f900800000000000000
+      internalID: 717368756360441921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8ca8ee4f17148b0800000000000000
+      internalID: -5169725600456587103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor venenosa Surge-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7021ab6ef4f24dd40800000000000000
+      internalID: 5608159456202985991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

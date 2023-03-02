@@ -4,12 +4,16 @@ using UnityEngine;
 public class Cam_Manager : MonoBehaviour
 {
     private float speedFollow = 5;
+    private float camExplorSize = 8;
     private Transform target;
     // Determina si pueda seguír al jugador en Exploracion
     public bool canFollowPlayer;
+    private Camera thisCam;
 
     void Start(){
         DontDestroyOnLoad(this.gameObject);
+        thisCam = this.gameObject.GetComponent<Camera>();
+        /*
         try
         {
             target = FindObjectOfType<Player_Exploration>().transform;
@@ -24,6 +28,7 @@ public class Cam_Manager : MonoBehaviour
         {
             canFollowPlayer = true;
         }
+        */
     }
     void Update()
     {
@@ -37,8 +42,24 @@ public class Cam_Manager : MonoBehaviour
         }
     }
 
-    public void UpdateVariables()
+    public void SceneIsExplor()
     {
+        // Se puede seguir al jugador
+        canFollowPlayer = true;
+        // Existe el objetivo, es el jugador y hay que encontrarlo
+        target = FindObjectOfType<Player_Exploration>().transform;
+        // Otorgar el tamaño de la camara
+        thisCam.orthographicSize = camExplorSize;
 
+    }
+    public void SceneNotExplor(int camSize)
+    {
+        // Llevar al punto central a la camara
+        transform.position = new Vector3(0f, 0f, 0f);
+        // Utilizar el tamanio establecido por GMan
+        thisCam = this.gameObject.GetComponent<Camera>();
+        thisCam.orthographicSize = camSize;
+        // No hay objetivo que seguir
+        canFollowPlayer = false;
     }
 }

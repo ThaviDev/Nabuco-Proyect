@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 6848a74ec18b0814fa12b00f3990d924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8132144617588532579
+    second: Flor Venenosa Espina-Sheet_0
+  - first:
+      213: 8200731460176008714
+    second: Flor Venenosa Espina-Sheet_1
+  - first:
+      213: 2013137451633894844
+    second: Flor Venenosa Espina-Sheet_2
+  - first:
+      213: -8540384511410013910
+    second: Flor Venenosa Espina-Sheet_3
+  - first:
+      213: 5048494228645973831
+    second: Flor Venenosa Espina-Sheet_4
+  - first:
+      213: 6033356237723312881
+    second: Flor Venenosa Espina-Sheet_5
+  - first:
+      213: 1875937980925016464
+    second: Flor Venenosa Espina-Sheet_6
+  - first:
+      213: 5540884041848324602
+    second: Flor Venenosa Espina-Sheet_7
+  - first:
+      213: -5057844485805818839
+    second: Flor Venenosa Espina-Sheet_8
+  - first:
+      213: 5063188544944539501
+    second: Flor Venenosa Espina-Sheet_9
+  - first:
+      213: -7856733768419592705
+    second: Flor Venenosa Espina-Sheet_10
+  - first:
+      213: -523583027130711903
+    second: Flor Venenosa Espina-Sheet_11
+  - first:
+      213: 6483520506498182442
+    second: Flor Venenosa Espina-Sheet_12
+  - first:
+      213: -752068993953360567
+    second: Flor Venenosa Espina-Sheet_13
+  - first:
+      213: -194122435361223437
+    second: Flor Venenosa Espina-Sheet_14
+  - first:
+      213: 5694440915200967716
+    second: Flor Venenosa Espina-Sheet_15
+  - first:
+      213: 1036867828543308901
+    second: Flor Venenosa Espina-Sheet_16
+  - first:
+      213: -363215561187054724
+    second: Flor Venenosa Espina-Sheet_17
+  - first:
+      213: 723417535066657693
+    second: Flor Venenosa Espina-Sheet_18
+  - first:
+      213: 6050942041018438508
+    second: Flor Venenosa Espina-Sheet_19
+  - first:
+      213: 8657848742956919517
+    second: Flor Venenosa Espina-Sheet_20
+  - first:
+      213: 6362213282602199234
+    second: Flor Venenosa Espina-Sheet_21
+  - first:
+      213: -3077514124149819100
+    second: Flor Venenosa Espina-Sheet_22
+  - first:
+      213: 6955245647934772129
+    second: Flor Venenosa Espina-Sheet_23
+  - first:
+      213: -2424503453967505925
+    second: Flor Venenosa Espina-Sheet_24
+  - first:
+      213: -3895511154846073655
+    second: Flor Venenosa Espina-Sheet_25
+  - first:
+      213: 7219271313539121984
+    second: Flor Venenosa Espina-Sheet_26
+  - first:
+      213: -573147441233975656
+    second: Flor Venenosa Espina-Sheet_27
+  - first:
+      213: 7694036069624729942
+    second: Flor Venenosa Espina-Sheet_28
+  - first:
+      213: 5843678841624180065
+    second: Flor Venenosa Espina-Sheet_29
+  - first:
+      213: -1122237260997167227
+    second: Flor Venenosa Espina-Sheet_30
+  - first:
+      213: -5611129517913215270
+    second: Flor Venenosa Espina-Sheet_31
+  - first:
+      213: -3088545787382392174
+    second: Flor Venenosa Espina-Sheet_32
+  - first:
+      213: 2288761262203156827
+    second: Flor Venenosa Espina-Sheet_33
+  - first:
+      213: 3900455114824525278
+    second: Flor Venenosa Espina-Sheet_34
+  - first:
+      213: 1228934041179458524
+    second: Flor Venenosa Espina-Sheet_35
+  - first:
+      213: 2645924648216034432
+    second: Flor Venenosa Espina-Sheet_36
+  - first:
+      213: -3078134548731515596
+    second: Flor Venenosa Espina-Sheet_37
+  - first:
+      213: 6206737692994184894
+    second: Flor Venenosa Espina-Sheet_38
+  - first:
+      213: 66683006523442932
+    second: Flor Venenosa Espina-Sheet_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ad7866e81d42f80800000000000000
+      internalID: -8132144617588532579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06592e40d9dec170800000000000000
+      internalID: 8200731460176008714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56ca0a8d910fb10800000000000000
+      internalID: 2013137451633894844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29782829857a7980800000000000000
+      internalID: -8540384511410013910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 170
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8d0db0cadf0640800000000000000
+      internalID: 5048494228645973831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2a2e83889cab350800000000000000
+      internalID: 6033356237723312881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099f2bd87aba80a10800000000000000
+      internalID: 1875937980925016464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10000edac25ec40800000000000000
+      internalID: 5540884041848324602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 136
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c306edc3deec9b0800000000000000
+      internalID: -5057844485805818839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670f3cd72f044640800000000000000
+      internalID: 5063188544944539501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 136
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b88ea34647f290800000000000000
+      internalID: -7856733768419592705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 136
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a04379c20cdbb8f0800000000000000
+      internalID: -523583027130711903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 136
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2de8cbac871af950800000000000000
+      internalID: 6483520506498182442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 136
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94513d01c3d1095f0800000000000000
+      internalID: -752068993953360567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4c5d6ca65e4df0800000000000000
+      internalID: -194122435361223437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 102
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424010987d7b60f40800000000000000
+      internalID: 5694440915200967716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ca57ebc1b36e00800000000000000
+      internalID: 1036867828543308901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2d8a1f5995faf0800000000000000
+      internalID: -363215561187054724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 102
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93dfe15a681a0a00800000000000000
+      internalID: 723417535066657693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 102
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63916f1ab349f350800000000000000
+      internalID: 6050942041018438508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 102
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda620b7f8bd62870800000000000000
+      internalID: 8657848742956919517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8a6c6a54f1b4850800000000000000
+      internalID: 6362213282602199234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 68
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4297dce95397a45d0800000000000000
+      internalID: -3077514124149819100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 68
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3dbbaf01ff58060800000000000000
+      internalID: 6955245647934772129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 68
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52f8544fe6a5ed0800000000000000
+      internalID: -2424503453967505925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 68
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf3d47e3d50f9c0800000000000000
+      internalID: -3895511154846073655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 68
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043caa4a201003460800000000000000
+      internalID: 7219271313539121984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 68
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89623595075cb08f0800000000000000
+      internalID: -573147441233975656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65156036a05b6ca60800000000000000
+      internalID: 7694036069624729942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 34
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165b97002fae81150800000000000000
+      internalID: 5843678841624180065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5877e8038230d60f0800000000000000
+      internalID: -1122237260997167227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adee218be634122b0800000000000000
+      internalID: -5611129517913215270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a1b8e58f74325d0800000000000000
+      internalID: -3088545787382392174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 34
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593b49dd3053cf10800000000000000
+      internalID: 2288761262203156827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 34
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a87de243312630800000000000000
+      internalID: 3900455114824525278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb03e0dffc0e0110800000000000000
+      internalID: 1228934041179458524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cfd57e27638b420800000000000000
+      internalID: 2645924648216034432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2004cfe44845d0800000000000000
+      internalID: -3078134548731515596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb622fc0c03c22650800000000000000
+      internalID: 6206737692994184894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flor Venenosa Espina-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2333333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6826457d7ece000800000000000000
+      internalID: 66683006523442932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

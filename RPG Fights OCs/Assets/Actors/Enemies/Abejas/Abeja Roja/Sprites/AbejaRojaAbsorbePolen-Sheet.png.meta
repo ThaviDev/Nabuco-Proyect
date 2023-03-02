@@ -1,0 +1,2148 @@
+fileFormatVersion: 2
+guid: 11efdf1ed9c18054e8186a878fe8baf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 959520736521864999
+    second: AbejaRojaAbsorbePolen-Sheet_0
+  - first:
+      213: -2052068051131988117
+    second: AbejaRojaAbsorbePolen-Sheet_1
+  - first:
+      213: 7973598508041018099
+    second: AbejaRojaAbsorbePolen-Sheet_2
+  - first:
+      213: -3969307109160915566
+    second: AbejaRojaAbsorbePolen-Sheet_3
+  - first:
+      213: -2484833806023423382
+    second: AbejaRojaAbsorbePolen-Sheet_4
+  - first:
+      213: 1933290302565517144
+    second: AbejaRojaAbsorbePolen-Sheet_5
+  - first:
+      213: -8240713864238665212
+    second: AbejaRojaAbsorbePolen-Sheet_6
+  - first:
+      213: -4629404522704519561
+    second: AbejaRojaAbsorbePolen-Sheet_7
+  - first:
+      213: 4648967599203998967
+    second: AbejaRojaAbsorbePolen-Sheet_8
+  - first:
+      213: 5160221573567954435
+    second: AbejaRojaAbsorbePolen-Sheet_9
+  - first:
+      213: 4504690549215825058
+    second: AbejaRojaAbsorbePolen-Sheet_10
+  - first:
+      213: 2032730844412785077
+    second: AbejaRojaAbsorbePolen-Sheet_11
+  - first:
+      213: 6826246186523111963
+    second: AbejaRojaAbsorbePolen-Sheet_12
+  - first:
+      213: -7073137011846391418
+    second: AbejaRojaAbsorbePolen-Sheet_13
+  - first:
+      213: 10338643814912668
+    second: AbejaRojaAbsorbePolen-Sheet_14
+  - first:
+      213: 1957053636621579617
+    second: AbejaRojaAbsorbePolen-Sheet_15
+  - first:
+      213: -3747737186425929445
+    second: AbejaRojaAbsorbePolen-Sheet_16
+  - first:
+      213: 6223187123221551316
+    second: AbejaRojaAbsorbePolen-Sheet_17
+  - first:
+      213: 2633843302295629944
+    second: AbejaRojaAbsorbePolen-Sheet_18
+  - first:
+      213: 4191502826099729672
+    second: AbejaRojaAbsorbePolen-Sheet_19
+  - first:
+      213: -8355750342042729563
+    second: AbejaRojaAbsorbePolen-Sheet_20
+  - first:
+      213: 9005229599015010519
+    second: AbejaRojaAbsorbePolen-Sheet_21
+  - first:
+      213: 4760331510760907351
+    second: AbejaRojaAbsorbePolen-Sheet_22
+  - first:
+      213: -3818696126228321846
+    second: AbejaRojaAbsorbePolen-Sheet_23
+  - first:
+      213: 5100385270683983602
+    second: AbejaRojaAbsorbePolen-Sheet_24
+  - first:
+      213: -137127941841288940
+    second: AbejaRojaAbsorbePolen-Sheet_25
+  - first:
+      213: -1032299862750935662
+    second: AbejaRojaAbsorbePolen-Sheet_26
+  - first:
+      213: 1811409725548604572
+    second: AbejaRojaAbsorbePolen-Sheet_27
+  - first:
+      213: -8331334557687721340
+    second: AbejaRojaAbsorbePolen-Sheet_28
+  - first:
+      213: 1197728641916756763
+    second: AbejaRojaAbsorbePolen-Sheet_29
+  - first:
+      213: -3161496622748801186
+    second: AbejaRojaAbsorbePolen-Sheet_30
+  - first:
+      213: -8357403324113965000
+    second: AbejaRojaAbsorbePolen-Sheet_31
+  - first:
+      213: -7074180616973899376
+    second: AbejaRojaAbsorbePolen-Sheet_32
+  - first:
+      213: 4815834546716040172
+    second: AbejaRojaAbsorbePolen-Sheet_33
+  - first:
+      213: 2858618249118658710
+    second: AbejaRojaAbsorbePolen-Sheet_34
+  - first:
+      213: 1836692933981565479
+    second: AbejaRojaAbsorbePolen-Sheet_35
+  - first:
+      213: -447581101847028856
+    second: AbejaRojaAbsorbePolen-Sheet_36
+  - first:
+      213: -1864320017197662390
+    second: AbejaRojaAbsorbePolen-Sheet_37
+  - first:
+      213: -8864286724738168517
+    second: AbejaRojaAbsorbePolen-Sheet_38
+  - first:
+      213: 5107925971402228216
+    second: AbejaRojaAbsorbePolen-Sheet_39
+  - first:
+      213: 6644088619904449959
+    second: AbejaRojaAbsorbePolen-Sheet_40
+  - first:
+      213: 4166115929630898318
+    second: AbejaRojaAbsorbePolen-Sheet_41
+  - first:
+      213: 627957479518549769
+    second: AbejaRojaAbsorbePolen-Sheet_42
+  - first:
+      213: 6769339578023824405
+    second: AbejaRojaAbsorbePolen-Sheet_43
+  - first:
+      213: -3691481392717874121
+    second: AbejaRojaAbsorbePolen-Sheet_44
+  - first:
+      213: -5091898460941376732
+    second: AbejaRojaAbsorbePolen-Sheet_45
+  - first:
+      213: -1230443393007425905
+    second: AbejaRojaAbsorbePolen-Sheet_46
+  - first:
+      213: 3204824900733777328
+    second: AbejaRojaAbsorbePolen-Sheet_47
+  - first:
+      213: 7291076743037888215
+    second: AbejaRojaAbsorbePolen-Sheet_48
+  - first:
+      213: 2511272544688570094
+    second: AbejaRojaAbsorbePolen-Sheet_49
+  - first:
+      213: -5563160216124324367
+    second: AbejaRojaAbsorbePolen-Sheet_50
+  - first:
+      213: 1182752995392952195
+    second: AbejaRojaAbsorbePolen-Sheet_51
+  - first:
+      213: -4991166204148001225
+    second: AbejaRojaAbsorbePolen-Sheet_52
+  - first:
+      213: 258254115221839674
+    second: AbejaRojaAbsorbePolen-Sheet_53
+  - first:
+      213: 5062244252563972528
+    second: AbejaRojaAbsorbePolen-Sheet_54
+  - first:
+      213: 4282766573530392402
+    second: AbejaRojaAbsorbePolen-Sheet_55
+  - first:
+      213: 4639605870828193700
+    second: AbejaRojaAbsorbePolen-Sheet_56
+  - first:
+      213: -8175058760246844456
+    second: AbejaRojaAbsorbePolen-Sheet_57
+  - first:
+      213: 2712046865958324489
+    second: AbejaRojaAbsorbePolen-Sheet_58
+  - first:
+      213: -7984476356054014956
+    second: AbejaRojaAbsorbePolen-Sheet_59
+  - first:
+      213: 1267992229862293547
+    second: AbejaRojaAbsorbePolen-Sheet_60
+  - first:
+      213: 441270067323498057
+    second: AbejaRojaAbsorbePolen-Sheet_61
+  - first:
+      213: -1537091208399649908
+    second: AbejaRojaAbsorbePolen-Sheet_62
+  - first:
+      213: 1368279581487701712
+    second: AbejaRojaAbsorbePolen-Sheet_63
+  - first:
+      213: 7107624365565078519
+    second: AbejaRojaAbsorbePolen-Sheet_64
+  - first:
+      213: -5070411666067523626
+    second: AbejaRojaAbsorbePolen-Sheet_65
+  - first:
+      213: 70660020849039940
+    second: AbejaRojaAbsorbePolen-Sheet_66
+  - first:
+      213: -1610227710216444297
+    second: AbejaRojaAbsorbePolen-Sheet_67
+  - first:
+      213: -2771429436594361562
+    second: AbejaRojaAbsorbePolen-Sheet_68
+  - first:
+      213: -2928165579474080749
+    second: AbejaRojaAbsorbePolen-Sheet_69
+  - first:
+      213: 8810748770197454999
+    second: AbejaRojaAbsorbePolen-Sheet_70
+  - first:
+      213: -6918359207282201917
+    second: AbejaRojaAbsorbePolen-Sheet_71
+  - first:
+      213: -2827777096240517818
+    second: AbejaRojaAbsorbePolen-Sheet_72
+  - first:
+      213: -958703121683586275
+    second: AbejaRojaAbsorbePolen-Sheet_73
+  - first:
+      213: 715925656545823646
+    second: AbejaRojaAbsorbePolen-Sheet_74
+  - first:
+      213: 2168417853825976728
+    second: AbejaRojaAbsorbePolen-Sheet_75
+  - first:
+      213: 5651513065501967499
+    second: AbejaRojaAbsorbePolen-Sheet_76
+  - first:
+      213: 7554203613031744908
+    second: AbejaRojaAbsorbePolen-Sheet_77
+  - first:
+      213: -3087494189211352805
+    second: AbejaRojaAbsorbePolen-Sheet_78
+  - first:
+      213: 5393939563989505890
+    second: AbejaRojaAbsorbePolen-Sheet_79
+  - first:
+      213: -6109972524437248128
+    second: AbejaRojaAbsorbePolen-Sheet_80
+  - first:
+      213: 6367130544950125616
+    second: AbejaRojaAbsorbePolen-Sheet_81
+  - first:
+      213: 4807489579351579135
+    second: AbejaRojaAbsorbePolen-Sheet_82
+  - first:
+      213: 948225745537773516
+    second: AbejaRojaAbsorbePolen-Sheet_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727c10fa607e05d00800000000000000
+      internalID: 959520736521864999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b678955daf69583e0800000000000000
+      internalID: -2052068051131988117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa9e5dd899e7ae60800000000000000
+      internalID: 7973598508041018099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29de70ae6303ae8c0800000000000000
+      internalID: -3969307109160915566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a871291d8148dd0800000000000000
+      internalID: -2484833806023423382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570024894d64da10800000000000000
+      internalID: 1933290302565517144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fa62d66a13ad80800000000000000
+      internalID: -8240713864238665212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3c9e3d1d01cfb0800000000000000
+      internalID: -4629404522704519561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcdad27663748040800000000000000
+      internalID: 4648967599203998967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 528
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e33de5e2acc9740800000000000000
+      internalID: 5160221573567954435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac81190030e38e30800000000000000
+      internalID: 4504690549215825058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b13431eee5b53c10800000000000000
+      internalID: 2032730844412785077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1233195db2bbbe50800000000000000
+      internalID: 6826246186523111963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6895a31ec5b27dd90800000000000000
+      internalID: -7073137011846391418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c921c0811fab42000800000000000000
+      internalID: 10338643814912668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1653731e9e9d82b10800000000000000
+      internalID: 1957053636621579617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118f83a2ec5dfbc0800000000000000
+      internalID: -3747737186425929445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d76a77b33d5650800000000000000
+      internalID: 6223187123221551316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8707f5b578a4d8420800000000000000
+      internalID: 2633843302295629944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 462
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80568b0ec953b2a30800000000000000
+      internalID: 4191502826099729672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c1b6a5596a0c80800000000000000
+      internalID: -8355750342042729563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08f1acb9009fc70800000000000000
+      internalID: 9005229599015010519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a008a948101240800000000000000
+      internalID: 4760331510760907351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac920030b14410bc0800000000000000
+      internalID: -3818696126228321846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fed0c4716538c640800000000000000
+      internalID: 5100385270683983602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41105c90dd2d81ef0800000000000000
+      internalID: -137127941841288940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295cb038eb88ca1f0800000000000000
+      internalID: -1032299862750935662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c23025c8b632910800000000000000
+      internalID: 1811409725548604572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48256107c57216c80800000000000000
+      internalID: -8331334557687721340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 396
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1362ce9adf2f9010800000000000000
+      internalID: 1197728641916756763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57e57a629b1024d0800000000000000
+      internalID: -3161496622748801186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b485c4f9840c80800000000000000
+      internalID: -8357403324113965000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0992150a53673dd90800000000000000
+      internalID: -7074180616973899376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb501e310845d240800000000000000
+      internalID: 4815834546716040172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ba27e62adba720800000000000000
+      internalID: 2858618249118658710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f0730e7e3d7910800000000000000
+      internalID: 1836692933981565479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bda38fb5fd9c9f0800000000000000
+      internalID: -447581101847028856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f784b62da9026e0800000000000000
+      internalID: -1864320017197662390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3945c8503abbf480800000000000000
+      internalID: -8864286724738168517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 330
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10c68ab9ff2e640800000000000000
+      internalID: 5107925971402228216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adbe9dd56b843c50800000000000000
+      internalID: 6644088619904449959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88febe6d5401d930800000000000000
+      internalID: 4166115929630898318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b0c42004f6b800800000000000000
+      internalID: 627957479518549769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c4a101b7681fd50800000000000000
+      internalID: 6769339578023824405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c361c4b3935ccc0800000000000000
+      internalID: -3691481392717874121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4232b3be351f559b0800000000000000
+      internalID: -5091898460941376732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e093d0469ceee0800000000000000
+      internalID: -1230443393007425905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5309f6443d97c20800000000000000
+      internalID: 3204824900733777328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a2e20bab1f2560800000000000000
+      internalID: 7291076743037888215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 264
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7a58f215d9d220800000000000000
+      internalID: 2511272544688570094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f50351224fabc2b0800000000000000
+      internalID: -5563160216124324367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871d63359bf96010800000000000000
+      internalID: 1182752995392952195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d2da18c0dbbab0800000000000000
+      internalID: -4991166204148001225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f949fdfb0859300800000000000000
+      internalID: 258254115221839674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a658a354b04640800000000000000
+      internalID: 5062244252563972528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257223fe1817f6b30800000000000000
+      internalID: 4282766573530392402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7088435f0336040800000000000000
+      internalID: 4639605870828193700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3aa81fe5b5c8e80800000000000000
+      internalID: -8175058760246844456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90948ab614023a520800000000000000
+      internalID: 2712046865958324489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 198
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41425e7ce01713190800000000000000
+      internalID: -7984476356054014956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c5e60730d89110800000000000000
+      internalID: 1267992229862293547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e64dcc9c4bf1600800000000000000
+      internalID: 441270067323498057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8386f790b72baae0800000000000000
+      internalID: -1537091208399649908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9ef7a70b1df210800000000000000
+      internalID: 1368279581487701712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbea62e3ba53a260800000000000000
+      internalID: 7107624365565078519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d77c03347742a9b0800000000000000
+      internalID: -5070411666067523626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a57822ae80bf000800000000000000
+      internalID: 70660020849039940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776ee0dcd6257a9e0800000000000000
+      internalID: -1610227710216444297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6bbf6c97e989d0800000000000000
+      internalID: -2771429436594361562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 132
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cebe76be01d57d0800000000000000
+      internalID: -2928165579474080749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79044dc3351164a70800000000000000
+      internalID: 8810748770197454999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca246db4fc0dff90800000000000000
+      internalID: -6918359207282201917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d299296b7b1c8d0800000000000000
+      internalID: -2827777096240517818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13edfa179002b2f0800000000000000
+      internalID: -958703121683586275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b800c679a7fe900800000000000000
+      internalID: 715925656545823646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89989ed9c84c71e10800000000000000
+      internalID: 2168417853825976728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8449b8a0353e6e40800000000000000
+      internalID: 5651513065501967499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85cab3892ce5d860800000000000000
+      internalID: 7554203613031744908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1189f5a4640725d0800000000000000
+      internalID: -3087494189211352805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 66
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2671583847f1bda40800000000000000
+      internalID: 5393939563989505890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087658d6c54053ba0800000000000000
+      internalID: -6109972524437248128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034aa420f779c5850800000000000000
+      internalID: 6367130544950125616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff994ae1d42a7b240800000000000000
+      internalID: 4807489579351579135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbejaRojaAbsorbePolen-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 109
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6697248, y: 0.06060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa8a9aa46c82d00800000000000000
+      internalID: 948225745537773516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
