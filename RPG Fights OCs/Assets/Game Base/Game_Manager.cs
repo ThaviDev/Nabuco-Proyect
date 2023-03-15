@@ -37,13 +37,31 @@ public class Game_Manager : MonoBehaviour
         pauseManager = FindObjectOfType<PauseManager>();
         myDialogueMan = FindObjectOfType<MyDialogueManager>();
 
-        // Destruye la escena con todos los objetos y códigos indestructibles para no molestar con una escena demás que no tiene nada
+        // Destruye Game Base: la escena con todos los objetos y códigos indestructibles para no molestar con una escena demás que no tiene nada
         SceneManager.UnloadSceneAsync("Game Base");
 
         // Obtener la escena activa en ese momento
         myScene = SceneManager.GetActiveScene();
-        print("El nombre de esta escena es: " + myScene.name);
+        print("El nombre de esta escena actual es: " + myScene.name);
 
+        // Si la escena activa es game base
+        if (myScene.name == "Game Base")
+        {
+            // Cargar Main Menu, Destruir Game Base y volver a checar la escena actual
+            SceneManager.LoadSceneAsync("Main Menu");
+            SceneManager.UnloadSceneAsync("Game Base");
+            // Iniciar cuna corrutina para checar la escena unos segundos despues de que se termine de cargar el pinche unity
+            StartCoroutine("WaitForLoadScene_InStartGame");
+        }
+
+        CheckScene();
+    }
+
+    // Este enumerador existe solamente para evitar un glich que tiene que ver con el cargar el menu principal del juego
+    // cuando no hay ninguna escena en ese momento
+    IEnumerator WaitForLoadScene_InStartGame()
+    {
+        yield return new WaitForSeconds(0.250f);
         CheckScene();
     }
 
@@ -52,6 +70,7 @@ public class Game_Manager : MonoBehaviour
     {
         // Obtener la escena activa en ese momento
         myScene = SceneManager.GetActiveScene();
+        print("El nombre de esta escena actual es: " + myScene.name);
         switch (myScene.name)
         {
             case "Main Menu":

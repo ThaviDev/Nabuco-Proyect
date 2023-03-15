@@ -1,0 +1,5 @@
+The animations of the characters in combat and in exploration mode are categorized into A, M and O, witch stands for Ability, Main and Other.
+Main is the main animations of the character witch are used for most of the time.
+Ability is for the main abilities of the combat, these show the first animation, but if the ability has diferent animations then it uses animations in Other.
+Other is every other animation used for diferent things, they can be used for special ocasion for main and ability, for example, another walk cycle when the character walks in another direction.
+But other animations that coombine with main or ability, they will use either (A) or (M) in parenthesis in its name.
